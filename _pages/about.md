@@ -11,7 +11,7 @@ redirect_from:
 I am Research Staff Member at [IBM Research](https://research.ibm.com/labs/almaden/).
 
 
-Prior to joining Almaden Research Center, I was pursuing a Ph.D. in computer vision and machine learning at Wayne State University. While obtaining my Master's from the Indian Institute of Technology Roorkee, India, I was awarded the DAAD Fellowship to pursue my Master's thesis at the Technical University Berlin, Germany. Also, I worked as a Junior Research Fellow at the Indian Institute of Technology, Gandhinagar.
+Prior to joining Almaden Research Center, I was pursuing a Ph.D. in computer vision and machine learning at [Wayne State University](https://engineering.wayne.edu/). While obtaining my Master's from the [Indian Institute of Technology Roorkee](https://ee.iitr.ac.in/), India, I was awarded the [DAAD Fellowship](https://www.daad.in/en/) to pursue my Master's thesis at computer vision and remote sensing department at [Technical University Berlin](https://www.cv.tu-berlin.de/menue/computer_vision_remote_sensing/), Germany. Also, I worked as a Junior Research Fellow at the [Indian Institute of Technology](https://ee.iitgn.ac.in/), Gandhinagar.
 
 My research interests include machine learning and deep learning for unstructured data, natural language processing, computer vision and information theory.
 
