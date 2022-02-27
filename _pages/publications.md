@@ -37,8 +37,7 @@ a:active {
   
 <body>
   
-Throughout my career so far I am fortunate to conduct research in various different filed such as computer vision, natural language processing, fundamental machine learning, deep learning, reinforcement learning and information theory. Here I categorize my publications based on different topics.
- 
+As a researcher, I have had the opportunity to work in a wide range of fields such as computer vision, natural language processing, fundamental machine learning, deep learning, reinforcement learning, and information theory. On this page, I categorize my publications according to different topics. 
   
 <h2 style="color:DarkRed;"><a id="Lable Noise">Label Noise:</a></h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
