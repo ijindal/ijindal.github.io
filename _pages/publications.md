@@ -109,7 +109,7 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
      
   <li>  <b>[NCVPRIPG 2015] </b> <a href="https://ieeexplore.ieee.org/abstract/document/7490054" target="_blank" LINK="red"> Semantic description of a video using representative frames.</a>
   <br> Ishan Jindal, Shanmuganathan Raman
-  <br> In IEEE 2015 Fifth National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics<li> 
+  <br> In IEEE 2015 Fifth National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics</li> 
      
 </ul> 
   
