@@ -37,7 +37,7 @@ a:active {
   
 <body>
   
-Throughout my carrier so far I am fortunate to conduct research in various different filed such as computer vision, natural language processing, fundamental machine learning, deep learning, reinforcement learning and information theory. Here I categorize my publications based on different topics.
+Throughout my career so far I am fortunate to conduct research in various different filed such as computer vision, natural language processing, fundamental machine learning, deep learning, reinforcement learning and information theory. Here I categorize my publications based on different topics.
  
   
 <h2 style="color:DarkRed;"><a id="Lable Noise">Label Noise:</a></h2>  
