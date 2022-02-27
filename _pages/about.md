@@ -19,6 +19,8 @@ My research interests include machine learning and deep learning for unstructure
 Follow me on twitter @Ishanjindal28 and on [LinkedIn](https://www.linkedin.com/in/ishan-jindal/).
 
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gMb6U-05BPsglH54H5gDA4j8kCSud73mm-aJZYmNZt8&cl=ffffff&w=a"></script>
+
 <!-- ## Recent News
 
 ### Upcoming -->
