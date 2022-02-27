@@ -43,7 +43,7 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="nlp">Natural Language Processing:</a></h2>  
   
 <h3 style="color:DarkRed;">Shallow Semantic Parsing</h3>  
-<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
+<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
   
 <ul style="margin:1;padding:1">
        
@@ -67,11 +67,20 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   <br> In Findings of the Association for Computational Linguistics: EMNLP 2020</li>
 </ul>  
   
+<h3 style="color:DarkRed;">Open Information Extraction</h3>  
+<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
+  
+<ul style="margin:1;padding:1">
+  <li>  <b>[Working Paper 2022]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red"> When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications </a>
+  <br> Kevin Song Pei, Ishan Jindal, Kevin Chang, Yunyao Li, ChengXiang Zhai</li>
+</ul>       
+
+<hr style="color:black;"> 
    
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="cv">Computer Vision:</a></h2> 
   
-<h3 style="color:DarkRed;"><a>Robustness to Label Noise</a></h3>  
-<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
+<h3 style="color:DarkRed;">Robustness to Label Noise</h3>  
+<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
   
 <ul style="margin:1;padding:1">
   
@@ -95,7 +104,7 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   
   
 <h3 style="color:DarkRed;">Classification</h3>  
-<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
+<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
 
 <ul style="margin:1;padding:1">
   
@@ -112,23 +121,44 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   <br> In IEEE 2015 Fifth National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics</li> 
      
 </ul> 
+<hr style="color:black;"> 
   
-  
-  
-<h2 style="color:DarkRed;">Information Theory</h2>  
-<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
+<h2 style="color:SteelBlue;" vspace="0px;"><a id="it">Information Theory:</a></h2> 
+<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
   
 <ul style="margin:1;padding:1">
+  
+  <li>  <b>[ICASSP 2019] </b> <a href="https://ieeexplore.ieee.org/abstract/document/8683804" target="_blank" LINK="red">Tensor matched kronecker-structured subspace detection for missing information </a>
+  <br> Ishan Jindal, Matthew Nokleby
+  <br> In IEEE International Conference on Acoustics, Speech and Signal Processing</li>  
+  
+  <li>  <b>[Journal 2018] </b> <a href="https://ieeexplore.ieee.org/abstract/document/8361501" target="_blank" LINK="red">Classification and representation via separable subspaces: Performance limits and algorithms </a>
+  <br> Ishan Jindal, Matthew Nokleby
+  <br> In IEEE Journal of Selected Topics in Signal Processing</li>  
+  
+  <li>  <b>[ISIT 2017] </b>  <a href="https://ieeexplore.ieee.org/abstract/document/8006879" target="_blank" LINK="red">Performance limits on the classification of Kronecker-structured models</a>
+  <br>  Ishan Jindal, Matthew Nokleby
+  <br> In IEEE International Symposium on Information Theory </li>  
+  
+  <li>  <b>[Asilomar 2017] </b> <a href="https://ieeexplore.ieee.org/abstract/document/8335166" target="_blank" LINK="red"> Fast and compact Kronecker-structured dictionary learning for classification and representation</a>
+  <br> Ishan Jindal, Matthew Nokleby
+  <br> In IEEE 51st Asilomar Conference on Signals, Systems, and Computers</li>  
   
 </ul> 
-  
+<hr style="color:black;">
 
-    
-<h2 style="color:DarkRed;">Reinforcement Learning</h2>  
-<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
+<h2 style="color:SteelBlue;" vspace="0px;"><a id="rl">Reinforcement Learning:</a></h2>
+<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
 
 <ul style="margin:1;padding:1">
-
+  
+  <li>  <b>[Big Data 2018] </b> <a href="https://ieeexplore.ieee.org/abstract/document/8622481" target="_blank" LINK="red">Optimizing taxi carpool policies via reinforcement learning and spatio-temporal mining</a>
+  <br> Ishan Jindal, Zhiwei Tony Qin, Xuewen Chen, Matthew Nokleby, Jieping Ye
+  <br> In IEEE International Conference on Big Data (Big Data)</li>  
+  
+  <li>  <b>[Preprint 2017] </b>  <a href="https://arxiv.org/abs/1710.04350" target="_blank" LINK="red">A Unified Neural Network Approach for Estimating Travel Time and Distance for a Taxi Trip</a>
+  <br>  Ishan Jindal, Zhiwei Tony Qin, Xuewen Chen, Matthew Nokleby, Jieping Ye</li>  
+  
 </ul>  
  
   
