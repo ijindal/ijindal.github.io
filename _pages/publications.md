@@ -47,13 +47,13 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   
 <ul style="margin:1;padding:1">
        
-  <li>  <b>[Working Paper 2022]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red"> Universal Proposition Bank 2.0. </a>
+  <li>  <b>[Under Review at LREC2022]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red"> Universal Proposition Bank 2.0. </a>
   <br> Ishan Jindal, Alexandre Rademaker, Michał Ulewicz, NGUYEN Thi Minh Huyen, HA My Linh, Khoi-Nguyen Tran, Huaiyu Zhu, Yunyao Li</li>
       
-  <li>  <b>[Working Paper 2022]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red"> Label Definitions Improve Semantic Role Labeling. </a>
+  <li>  <b>[Under Review at NAACL2022]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red"> Label Definitions Improve Semantic Role Labeling. </a>
   <br>  Li Zhang, Ishan Jindal, Yunyao Li</li>
           
-  <li>  <b>[Working Paper 2022]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red"> Is Semantic-aware BERT more Linguistically Aware? A Case Study on Natural Language Inference. </a>
+  <li>  <b>[Under Review at ARR2022]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red"> Is Semantic-aware BERT more Linguistically Aware? A Case Study on Natural Language Inference. </a>
   <br> Ling Liu, Ishan Jindal, Yunyao Li</li>
               
   <li>  <b>[Preprint 2021]</b><a href="https://arxiv.org/abs/2112.02721" target="_blank" LINK="red"> NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation. </a>
@@ -71,7 +71,7 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
 <!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
   
 <ul style="margin:1;padding:1">
-  <li>  <b>[Working Paper 2022]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red"> When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications </a>
+  <li>  <b>[Under Review at ARR2022]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red"> When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications </a>
   <br> Kevin Song Pei, Ishan Jindal, Kevin Chang, Yunyao Li, ChengXiang Zhai</li>
 </ul>       
 
