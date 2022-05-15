@@ -53,7 +53,7 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   
   <li>  <b>[LREC 2022]</b><a href="https://universalpropositions.github.io/" target="_blank" LINK="red"> Universal Proposition Bank 2.0. </a>
   <br> Ishan Jindal, Alexandre Rademaker, Michał Ulewicz, Linh Ha, Huyen Nguyen, Khoi-Nguyen Tran, Huaiyu Zhu, Yunyao Li
-  <a href="https://universalpropositions.github.io/" target="_blank" LINK="red"><b>[Project Page]</b></a> 
+  <a href="https://universalpropositions.github.io/" target="_blank" LINK="red"><b>[Project Page]</b></a> &nbsp;
   <a href=https://github.com/UniversalPropositions" target="_blank" LINK="red"><b>[Data]</b></a></li>
   
   <li>  <b>[NAACL, SUKI 2022]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red"> Is Semantic-aware BERT more Linguistically Aware? A Case Study on Natural Language Inference. </a>
