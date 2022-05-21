@@ -58,7 +58,9 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   </li>
   
   <li>  <b>[NAACL, SUKI 2022]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red"> Is Semantic-aware BERT more Linguistically Aware? A Case Study on Natural Language Inference. </a>
-  <br> Ling Liu, Ishan Jindal, Yunyao Li</li>
+  <br> Ling Liu, Ishan Jindal, Yunyao Li
+  <br>  <a href="https://github.com/System-T/LingBert" target="_blank" LINK="red"><b>[Code]</b> </a>
+  </li>
   
   <li>  <b>[EMNLP, Findings 2020]</b><a href="https://aclanthology.org/2020.findings-emnlp.279/" target="_blank" LINK="red"> CLAR: A Cross-Lingual Argument Regularizer for Semantic Role Labeling. </a>
   <br> Ishan Jindal, Yunyao Li, Siddhartha Brahma, Huaiyu Zhu</li>
@@ -82,6 +84,18 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   <br> Kevin Song Pei, Ishan Jindal, Kevin Chang, Yunyao Li, ChengXiang Zhai</li>
 </ul>       
 
+  <h3 style="color:DarkRed;">Robustness to Label Noise</h3>  
+<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
+  
+<ul style="margin:1;padding:1">
+  
+  <li>  <b>[NAACL 2019] </b> <a href="https://aclanthology.org/N19-1328/" target="_blank" LINK="red">An Effective Label Noise Model for DNN Text Classification. </a>
+  <br> Ishan Jindal, Daniel Pressel, Brian Lester, Matthew Nokleby
+  <br>  <a href="https://github.com/ijindal/baseline/blob/feat/noisylabel/python/addons/noisyconv_pyt.py" target="_blank" LINK="red"><b>[Code]</b> </a>
+  </li>
+  
+</ul>   
+  
 <hr style="color:black;"> 
    
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="cv">Computer Vision:</a></h2> 
@@ -94,10 +108,6 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   <li>  <b>[Book Chapter 2020] </b> <a href="https://link.springer.com/chapter/10.1007/978-3-030-31756-0_7" target="_blank" LINK="red">Deep Neural Networks for Corrupted Labels </a>
   <br> Ishan Jindal, Matthew Nokleby, Daniel Pressel, Xuewen Chen, Harpreet Singh
   <br> In Book Deep Learning: Concepts and Architectures by Springer</li>  
-  
-  <li>  <b>[NAACL 2019] </b> <a href="https://aclanthology.org/N19-1328/" target="_blank" LINK="red">An Effective Label Noise Model for DNN Text Classification. </a>
-  <br> Ishan Jindal, Daniel Pressel, Brian Lester, Matthew Nokleby
-  <br> In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)</li>  
   
   <li>  <b>[CVPRW 2019] </b>  <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/Deep%20Vision%20Workshop/Jindal_A_Nonlinear_Noise-aware_Quasi-clustering_Approach_to_Learning_Deep_CNNs_from_CVPRW_2019_paper.pdf" target="_blank" LINK="red">A Nonlinear, Noise-aware, Quasi-clustering Approach to Learning Deep CNNs from Noisy Labels.</a>
   <br>  Ishan Jindal, Matthew S Nokleby, Daniel Pressel, Xuewen Chen
