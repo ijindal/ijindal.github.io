@@ -57,7 +57,7 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   <br> <a href="https://universalpropositions.github.io/" target="_blank" LINK="red"><b>[Project Page]</b></a> &nbsp; <a href="https://github.com/UniversalPropositions" target="_blank" LINK="red"><b>[Data]</b></a> 
   </li>
   
-  <li>  <b>[NAACL, SUKI 2022]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red"> Is Semantic-aware BERT more Linguistically Aware? A Case Study on Natural Language Inference. </a>
+  <li>  <b>[NAACL, SUKI 2022]</b><a href="https://suki-workshop.github.io/assets/paper/3.pdf" target="_blank" LINK="red"> Is Semantic-aware BERT more Linguistically Aware? A Case Study on Natural Language Inference. </a>
   <br> Ling Liu, Ishan Jindal, Yunyao Li
   <br>  <a href="https://github.com/System-T/LingBert" target="_blank" LINK="red"><b>[Code]</b> </a>
   </li>
