@@ -52,7 +52,7 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   <br>  <a href="https://github.com/System-T/LabelAwareSRL" target="_blank" LINK="red"><b>[Code]</b> </a>
   </li>
   
-  <li>  <b>[LREC 2022]</b><a href="https://universalpropositions.github.io/" target="_blank" LINK="red"> Universal Proposition Bank 2.0. </a>
+  <li>  <b>[LREC 2022]</b><a href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.181.pdf" target="_blank" LINK="red"> Universal Proposition Bank 2.0. </a>
   <br>  Ishan Jindal, Alexandre Rademaker, Michał Ulewicz, Linh Ha, Huyen Nguyen, Khoi-Nguyen Tran, Huaiyu Zhu, Yunyao Li
   <br> <a href="https://universalpropositions.github.io/" target="_blank" LINK="red"><b>[Project Page]</b></a> &nbsp; <a href="https://github.com/UniversalPropositions" target="_blank" LINK="red"><b>[Data]</b></a> 
   </li>
@@ -79,11 +79,16 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
 <h3 style="color:DarkRed;">Open Information Extraction</h3>  
 <!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
   
-<ul style="margin:1;padding:1">
-  <li>  <b>[Under Review at ARR2022]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red"> When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications </a>
+<!-- <ul style="margin:1;padding:1">
+  <li>  <b>[Under Review at ARR2022 For EMNLP]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red"> When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications </a>
   <br> Kevin Song Pei, Ishan Jindal, Kevin Chang, Yunyao Li, ChengXiang Zhai</li>
-</ul>       
+</ul>        -->
 
+<ul style="margin:1;padding:1">
+  <li>  <b>[Under Review at ARR2022 For EMNLP]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red">Comparative Empirical Analysis of OpenIE Systems</a>
+  <br> In anonymity period</li>
+</ul> 
+  
   <h3 style="color:DarkRed;">Robustness to Label Noise</h3>  
 <!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
   
