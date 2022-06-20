@@ -10,7 +10,7 @@ author_profile: true
 ### 2022
 
 - Upcoming Tutorial: **Meaning Representations for Natural Languages: Design, Models and Applications** at EMNLP 2022
-- Upcoming Guest Lecture: **Cross-lingual IE (SRL and OpenIE Systems)** [NLP 203](https://nlp203-spring22-50.courses.soe.ucsc.edu/) at UCSC.
+- **Cross-lingual IE and Prompt Engineering** [NLP 203](https://nlp203-spring22-50.courses.soe.ucsc.edu/) at University of California Santa Cruz.
 
 
 ### 2019
