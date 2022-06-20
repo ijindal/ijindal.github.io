@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am Research Staff Member at [IBM Research](https://research.ibm.com/labs/almaden/).
+Hi, I am Research Staff Member at [IBM Research - Almaden](https://research.ibm.com/labs/almaden/).
 
 
-Prior to joining Almaden Research Center, I was pursuing a Ph.D. in computer vision and machine learning at [Wayne State University](https://engineering.wayne.edu/). While obtaining my Master's from the [Indian Institute of Technology Roorkee](https://ee.iitr.ac.in/), India, I was awarded the [DAAD Fellowship](https://www.daad.in/en/) to pursue my Master's thesis at computer vision and remote sensing department at [Technical University Berlin](https://www.cv.tu-berlin.de/menue/computer_vision_remote_sensing/), Germany. Also, I worked as a Junior Research Fellow at the [Indian Institute of Technology](https://ee.iitgn.ac.in/), Gandhinagar.
+Before joining Almaden Research Center, I received a Ph.D. in Electrical Engineering from [Wayne State University](https://engineering.wayne.edu/), where my research centered on developing deep learning frameworks for unstructured and unreliable data. Before this I obtained my Master's from the [Indian Institute of Technology Roorkee](https://ee.iitr.ac.in/), India, where I was awarded the [DAAD Fellowship](https://www.daad.in/en/) to pursue my master's thesis project at computer vision and remote sensing department at [Technical University Berlin](https://www.cv.tu-berlin.de/menue/computer_vision_remote_sensing/), Germany.  I was also a Junior Research Fellow at the [Indian Institute of Technology](https://ee.iitgn.ac.in/), Gandhinagar, where I developed deep learning models for dynamic scene classification and object tracking.
 
-My research interests include machine learning and deep learning for unstructured data, natural language processing, computer vision and information theory.
+My research interests include machine learning and deep learning for unstructured data,natural language processing, computer vision and information theory.
 
 
-Follow me on twitter @Ishanjindal28 and on [LinkedIn](https://www.linkedin.com/in/ishan-jindal/).
+Follow me on twitter [@Ishanjindal28](https://twitter.com/Ishanjindal28) and on [LinkedIn](https://www.linkedin.com/in/ishan-jindal/).
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=gMb6U-05BPsglH54H5gDA4j8kCSud73mm-aJZYmNZt8&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
