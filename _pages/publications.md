@@ -47,7 +47,7 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   
 <ul style="margin:1;padding:1">
       
-  <li>  <b>[NAACL 2022]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red"> Label Definitions Improve Semantic Role Labeling. </a> Li Zhang, Ishan Jindal, Yunyao Li
+  <li>  <b>[NAACL 2022]</b><a href="https://aclanthology.org/2022.naacl-main.411/" target="_blank" LINK="red"> Label Definitions Improve Semantic Role Labeling. </a> Li Zhang, Ishan Jindal, Yunyao Li
   <br>  <a href="https://github.com/System-T/LabelAwareSRL" target="_blank" LINK="red"><b>[Code]</b> </a>
   </li>
   
