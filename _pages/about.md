@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Research Staff Member at [IBM Research - Almaden](https://research.ibm.com/labs/almaden/).
+Hi, I am Staff Research Scientist at [IBM Research - Almaden](https://research.ibm.com/labs/almaden/).
 
 
-Before joining Almaden Research Center, I received a Ph.D. in Electrical Engineering from [Wayne State University](https://engineering.wayne.edu/), where my research centered on developing deep learning frameworks for unstructured and unreliable data. Before this I obtained my Master's from the [Indian Institute of Technology Roorkee](https://ee.iitr.ac.in/), India, where I was awarded the [DAAD Fellowship](https://www.daad.in/en/) to pursue my master's thesis project at computer vision and remote sensing department at [Technical University Berlin](https://www.cv.tu-berlin.de/menue/computer_vision_remote_sensing/), Germany.  I was also a Junior Research Fellow at the [Indian Institute of Technology](https://ee.iitgn.ac.in/), Gandhinagar, where I developed deep learning models for dynamic scene classification and object tracking.
+Before joining Almaden Research Center, I received a Ph.D. in Electrical Engineering from [Wayne State University](https://engineering.wayne.edu/), where my research centered on developing deep learning frameworks for unstructured and unreliable data. Before this I obtained my Master's from the [Indian Institute of Technology Roorkee](https://ee.iitr.ac.in/), India, where I was awarded the [DAAD Fellowship](https://www.daad.in/en/) to pursue my master's thesis at computer vision and remote sensing department at [Technical University Berlin](https://www.cv.tu-berlin.de/menue/computer_vision_remote_sensing/), Germany.  I was also a Junior Research Fellow at the [Indian Institute of Technology](https://ee.iitgn.ac.in/), Gandhinagar, where I developed deep learning models for dynamic scene classification and object tracking.
 
-My research interests include machine learning and deep learning for unstructured data,natural language processing, computer vision and information theory.
+My research interests include machine learning and deep learning for unstructured data, natural language processing, computer vision and information theory.
 
 
 Follow me on twitter [@Ishanjindal28](https://twitter.com/Ishanjindal28) and on [LinkedIn](https://www.linkedin.com/in/ishan-jindal/).
