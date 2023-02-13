@@ -67,8 +67,6 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   <li>  <b>[Preprint 2021]</b><a href="https://arxiv.org/abs/2112.02721" target="_blank" LINK="red"> NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation. </a> A joint work with 100+ researchers
   <br> <a href="https://github.com/GEM-benchmark/NL-Augmenter" target="_blank" LINK="red"><b>[Code]</b></a></li>
   
-  
-      
   <li>  <b>[Preprint 2020]</b><a href="https://arxiv.org/abs/2011.14459" target="_blank" LINK="red"> Improved Semantic Role Labeling using Parameterized Neighborhood Memory Adaptation. </a> Ishan Jindal, Ranit Aharonov, Siddhartha Brahma, Huaiyu Zhu, Yunyao Li</li>
   
 </ul>  
@@ -76,15 +74,10 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
 <h3 style="color:DarkRed;">Open Information Extraction</h3>  
 <!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
   
-<!-- <ul style="margin:1;padding:1">
-  <li>  <b>[Under Review at ARR2022 For EMNLP]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red"> When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications </a>
-  <br> Kevin Song Pei, Ishan Jindal, Kevin Chang, Yunyao Li, ChengXiang Zhai</li>
-</ul>        -->
-
 <ul style="margin:1;padding:1">
-  <li>  <b>[Under Review at ARR2022 For EMNLP]</b><a href="https://ijindal.github.io/publications#nlp" target="_blank" LINK="red">Comparative Empirical Analysis of OpenIE Systems</a>
-  <br> In anonymity period</li>
-</ul> 
+  <li>  <b>[Preprint 2022]</b><a href="https://arxiv.org/pdf/2211.08228.pdf" target="_blank" LINK="red"> When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications </a>
+  <br> Kevin Song Pei, Ishan Jindal, Kevin Chang, Yunyao Li, ChengXiang Zhai</li>
+</ul>
   
   <h3 style="color:DarkRed;">Robustness to Label Noise</h3>  
 <!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
@@ -94,8 +87,17 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   <li>  <b>[NAACL 2019] </b> <a href="https://aclanthology.org/N19-1328/" target="_blank" LINK="red">An Effective Label Noise Model for DNN Text Classification. </a> Ishan Jindal, Daniel Pressel, Brian Lester, Matthew Nokleby
   <br>  <a href="https://github.com/ijindal/baseline/blob/feat/noisylabel/python/addons/noisyconv_pyt.py" target="_blank" LINK="red"><b>[Code]</b> </a>
   </li>
-  
 </ul>   
+  
+<h3 style="color:DarkRed;">Human-in-the-Loop Systems</h3>  
+<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
+  
+<ul style="margin:1;padding:1">
+  <li>  <b>[NAACL, DASH 2022]</b><a href="https://aclanthology.org/2022.dash-1.7/" target="_blank" LINK="red"> A Comparative Analysis between Human-in-the-loop Systems and Large Language Models for Pattern Extraction Tasks </a>
+  <br> Maeda F. Hanafi, Yannis Katsis, Ishan Jindal, Lucian Popa</li>
+</ul>
+
+  
 <hr style="color:black;"> 
   
 <h2 style="color:SteelBlue;" vspace="0px;"><a id="it">Information Theory:</a></h2> 
