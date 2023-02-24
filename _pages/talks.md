@@ -15,7 +15,7 @@ author_profile: true
 
  
 <p align="center">
-   <img src="https://github.com/UniversalPropositions/universalpropositions.github.io/blob/main/pdf/2020_EMNLP_T1_Meaning_Representations_for_Natural_Languages.png" alt="[emnlpT1]"/>
+   <img src="../files/2020_EMNLP_T1_Meaning_Representations_for_Natural_Languages.png" alt="[emnlpT1]"/>
 </p>
 
 - UP2.0 Introduction at LREC 2022. 
