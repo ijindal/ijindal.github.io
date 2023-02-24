@@ -22,7 +22,7 @@ author_profile: true
 - [Video](https://s3.eu-west-2.wasabisys.com/lrec2022/sessions/1089.mp4), [Slide deck](https://github.com/UniversalPropositions/universalpropositions.github.io/blob/main/pdf/2022_06_20_UP2.0.pdf)
 
 <p align="center">
-   <img src="https://github.com/UniversalPropositions/universalpropositions.github.io/blob/main/pdf/2022_06_20_UP2.0.png" alt="[up20]"/>
+   <img src="../files/2022_06_20_UP2.0.png" alt="[up20]"/>
 </p>
 
 - Guest Lecture on **Cross-lingual IE and Prompt Engineering** [NLP 203](https://nlp203-spring22-50.courses.soe.ucsc.edu/) at University of California Santa Cruz.
