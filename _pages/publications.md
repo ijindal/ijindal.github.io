@@ -94,9 +94,7 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   
 <hr style="color:black;"> 
   
-<h2 style="color:SteelBlue;" vspace="0px;"><a id="it">Information Theory:</a></h2> 
-<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
-  
+<h2 style="color:SteelBlue;" vspace="0px;"><a id="it">Information Theory:</a></h2>   
 <ul style="margin:1;padding:1">
   
   <li>  <b>[ICASSP 2019] </b> <a href="https://ieeexplore.ieee.org/abstract/document/8683804" target="_blank" LINK="red">Tensor matched kronecker-structured subspace detection for missing information </a> Ishan Jindal, Matthew Nokleby
