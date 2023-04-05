@@ -38,13 +38,10 @@ a:active {
 <body>
   
 As a researcher, I have had the opportunity to work in a wide range of fields such as computer vision, natural language processing, fundamental machine learning, deep learning, reinforcement learning, and information theory. On this page, I categorize my publications according to different topics. 
-  
 
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="nlp">Natural Language Processing:</a></h2>  
   
-<h3 style="color:DarkRed;">Shallow Semantic Parsing</h3>  
-<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
-  
+<h3 style="color:DarkRed;">Shallow Semantic Parsing</h3>    
 <ul style="margin:1;padding:1">
   <li>  <b>[EACL, Findings 2023]</b><a href="https://arxiv.org/abs/2210.06408" target="_blank" LINK="red"> PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation. </a> Ishan Jindal, Alexandre Rademaker, Khoi-Nguyen Tran, Huaiyu Zhu, Hiroshi Kanayama, Marina Danilevsky, Yunyao Li
   <br>  <a href="https://github.com/UniversalPropositions/PriMeSRL-Eval" target="_blank" LINK="red"><b>[Code]</b> </a>
@@ -64,44 +61,33 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   
   <li>  <b>[EMNLP, Findings 2020]</b><a href="https://aclanthology.org/2020.findings-emnlp.279/" target="_blank" LINK="red"> CLAR: A Cross-Lingual Argument Regularizer for Semantic Role Labeling. </a> Ishan Jindal, Yunyao Li, Siddhartha Brahma, Huaiyu Zhu</li>
   
-
-  
   <li>  <b>[Preprint 2020]</b><a href="https://arxiv.org/abs/2011.14459" target="_blank" LINK="red"> Improved Semantic Role Labeling using Parameterized Neighborhood Memory Adaptation. </a> Ishan Jindal, Ranit Aharonov, Siddhartha Brahma, Huaiyu Zhu, Yunyao Li</li>
   
 </ul>  
   
-<h3 style="color:DarkRed;">Open Information Extraction</h3>  
-<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
-  
+<h3 style="color:DarkRed;">Open Information Extraction</h3>    
 <ul style="margin:1;padding:1">
   <li>  <b>[Preprint 2022]</b><a href="https://arxiv.org/pdf/2211.08228.pdf" target="_blank" LINK="red"> When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications </a>
   <br> Kevin Song Pei, Ishan Jindal, Kevin Chang, Yunyao Li, ChengXiang Zhai</li>
 </ul>
   
-  <h3 style="color:DarkRed;">Robustness to Label Noise</h3>  
-<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
-  
+  <h3 style="color:DarkRed;">Robustness to Label Noise</h3>    
 <ul style="margin:1;padding:1">
-  
   <li>  <b>[NAACL 2019] </b> <a href="https://aclanthology.org/N19-1328/" target="_blank" LINK="red">An Effective Label Noise Model for DNN Text Classification. </a> Ishan Jindal, Daniel Pressel, Brian Lester, Matthew Nokleby
   <br>  <a href="https://github.com/ijindal/baseline/blob/feat/noisylabel/python/addons/noisyconv_pyt.py" target="_blank" LINK="red"><b>[Code]</b> </a>
   </li>
 </ul>   
   
-<h3 style="color:DarkRed;">Data Augmentation</h3>  
-<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
-  
+<h3 style="color:DarkRed;">Data Augmentation</h3>    
 <ul style="margin:1;padding:1">
   <li>  <b>[NEJLT: Northern European Journal of Language Technology 2023]</b><a href="https://arxiv.org/abs/2112.02721" target="_blank" LINK="red"> NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation. </a> A joint work with 100+ researchers
   <br> <a href="https://github.com/GEM-benchmark/NL-Augmenter" target="_blank" LINK="red"><b>[Code]</b></a></li>
 </ul>
   
   
-<h3 style="color:DarkRed;">Human-in-the-Loop Systems</h3>  
-<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
-  
+<h3 style="color:DarkRed;">Human-in-the-Loop Systems</h3>    
 <ul style="margin:1;padding:1">
-  <li>  <b>[NAACL, DASH 2022]</b><a href="https://aclanthology.org/2022.dash-1.7/" target="_blank" LINK="red"> A Comparative Analysis between Human-in-the-loop Systems and Large Language Models for Pattern Extraction Tasks </a>
+  <li>  <b>[EMNLP, DASH 2022]</b><a href="https://aclanthology.org/2022.dash-1.7/" target="_blank" LINK="red"> A Comparative Analysis between Human-in-the-loop Systems and Large Language Models for Pattern Extraction Tasks </a>
   <br> Maeda F. Hanafi, Yannis Katsis, Ishan Jindal, Lucian Popa</li>
 </ul>
 
