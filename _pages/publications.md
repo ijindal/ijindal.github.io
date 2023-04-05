@@ -64,8 +64,7 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   
   <li>  <b>[EMNLP, Findings 2020]</b><a href="https://aclanthology.org/2020.findings-emnlp.279/" target="_blank" LINK="red"> CLAR: A Cross-Lingual Argument Regularizer for Semantic Role Labeling. </a> Ishan Jindal, Yunyao Li, Siddhartha Brahma, Huaiyu Zhu</li>
   
-  <li>  <b>[Preprint 2021]</b><a href="https://arxiv.org/abs/2112.02721" target="_blank" LINK="red"> NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation. </a> A joint work with 100+ researchers
-  <br> <a href="https://github.com/GEM-benchmark/NL-Augmenter" target="_blank" LINK="red"><b>[Code]</b></a></li>
+
   
   <li>  <b>[Preprint 2020]</b><a href="https://arxiv.org/abs/2011.14459" target="_blank" LINK="red"> Improved Semantic Role Labeling using Parameterized Neighborhood Memory Adaptation. </a> Ishan Jindal, Ranit Aharonov, Siddhartha Brahma, Huaiyu Zhu, Yunyao Li</li>
   
@@ -88,6 +87,15 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   <br>  <a href="https://github.com/ijindal/baseline/blob/feat/noisylabel/python/addons/noisyconv_pyt.py" target="_blank" LINK="red"><b>[Code]</b> </a>
   </li>
 </ul>   
+  
+<h3 style="color:DarkRed;">Data Augmentation</h3>  
+<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
+  
+<ul style="margin:1;padding:1">
+  <li>  <b>[NEJLT: Northern European Journal of Language Technology 2023]</b><a href="https://arxiv.org/abs/2112.02721" target="_blank" LINK="red"> NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation. </a> A joint work with 100+ researchers
+  <br> <a href="https://github.com/GEM-benchmark/NL-Augmenter" target="_blank" LINK="red"><b>[Code]</b></a></li>
+</ul>
+  
   
 <h3 style="color:DarkRed;">Human-in-the-Loop Systems</h3>  
 <!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
