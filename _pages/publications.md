@@ -43,7 +43,7 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   
 <h3 style="color:DarkRed;">Shallow Semantic Parsing</h3>    
 <ul style="margin:1;padding:1">
-  <li>  <b>[EACL, Findings 2023]</b><a href="https://arxiv.org/abs/2210.06408" target="_blank" LINK="red"> PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation. </a> Ishan Jindal, Alexandre Rademaker, Khoi-Nguyen Tran, Huaiyu Zhu, Hiroshi Kanayama, Marina Danilevsky, Yunyao Li
+  <li>  <b>[EACL, Findings 2023]</b><a href="https://aclanthology.org/2023.findings-eacl.134/" target="_blank" LINK="red"> PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation. </a> Ishan Jindal, Alexandre Rademaker, Khoi-Nguyen Tran, Huaiyu Zhu, Hiroshi Kanayama, Marina Danilevsky, Yunyao Li
   <br>  <a href="https://github.com/UniversalPropositions/PriMeSRL-Eval" target="_blank" LINK="red"><b>[Code]</b> </a>
   </li>
   
