@@ -67,7 +67,7 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   
 <h3 style="color:DarkRed;">Open Information Extraction</h3>    
 <ul style="margin:1;padding:1">
-  <li>  <b>[Preprint 2022]</b><a href="https://arxiv.org/pdf/2211.08228.pdf" target="_blank" LINK="red"> When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications </a>
+  <li>  <b>[ACL 2023]</b><a href="https://arxiv.org/pdf/2211.08228.pdf" target="_blank" LINK="red"> When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications </a>
   <br> Kevin Song Pei, Ishan Jindal, Kevin Chang, Yunyao Li, ChengXiang Zhai</li>
 </ul>
   
