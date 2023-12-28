@@ -39,6 +39,19 @@ a:active {
   
 I have been fortunate to mentor or collaborate with these amazing students through IBM internships and University collaborations. Feel free to reach me if you are interested
   in working with me.
+
+
+<h3 style="color:DarkRed;">2023</h3>  
+<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
+  
+<ul style="margin:1;padding:1">
+  
+  <li>  <a href="" target="_blank" LINK="red"> Kevin Pei </a><b>, University of Illinois Urbana-Champaign</b>
+  <br>   Abstractive Open Information Extraction Systems </li>
+
+  <li>  <a href="https://bingshengyao.com/" target="_blank" LINK="red"> Bingsheng(Arthur) Yao  </a><b>, Rensselaer Polytechnic Institute</b>
+  <br>   Active learning framenwork for NLI tasks </li>
+</ul>
   
 <h3 style="color:DarkRed;">2022</h3>  
 <!-- <hr style="height:1px;border:none;color:#333;background-color:#333;" />  -->
