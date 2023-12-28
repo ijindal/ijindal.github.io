@@ -7,6 +7,20 @@ author_profile: true
 
 ## Invited Talks and Tutorials 
 
+
+### 2024
+
+
+- Upcoming LREC-COLING 2024 Tutorial on "[Meaning Representations for Natural Languages: Design, Models and Applications.](https://lrec-coling-2024.org/tutorials/)". Julia Bonn, Jeffrey Flanigan, Jan Hajič, Ishan Jindal, Yunyao Li and Nianwen Xue
+
+
+### 2023
+
+
+- IJCAI 2023 Tutorial on "[Meaning Representations for Natural Languages: Design, Models and Applications.](https://ijcai-23.org/tutorials/)" Julia Bonn; Jeffrey Flanigan; Timothy O’Gorman; Jan Hajic; Ishan Jindal; Yunyao Li and Nianwen Xue.
+ 
+
+
 ### 2022
 
 
