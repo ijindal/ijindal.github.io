@@ -67,7 +67,10 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   
 <h3 style="color:DarkRed;">Open Information Extraction</h3>    
 <ul style="margin:1;padding:1">
-  <li>  <b>[ACL 2023]</b><a href="https://arxiv.org/pdf/2211.08228.pdf" target="_blank" LINK="red"> When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications </a>
+  <li>  <b>[EMNLP 2023]</b><a href="https://aclanthology.org/2023.emnlp-main.376/" target="_blank" LINK="red">Abstractive Open Information Extraction</a>
+  <br> Kevin Pei, Ishan Jindal, Kevin Chang</li>
+  
+  <li>  <b>[ACL 2023]</b><a href="https://aclanthology.org/2023.acl-long.53/" target="_blank" LINK="red"> When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications </a>
   <br> Kevin Song Pei, Ishan Jindal, Kevin Chang, Yunyao Li, ChengXiang Zhai</li>
 </ul>
   
@@ -87,6 +90,8 @@ As a researcher, I have had the opportunity to work in a wide range of fields su
   
 <h3 style="color:DarkRed;">Human-in-the-Loop Systems</h3>    
 <ul style="margin:1;padding:1">
+    <li>  <b>[EMNLP 2023]</b><a href="https://aclanthology.org/2023.findings-emnlp.778/" target="_blank" LINK="red"> Beyond Labels: Empowering Human Annotators with Natural Language Explanations through a Novel Active-Learning Architecture </a>
+  <br>Bingsheng Yao, Ishan Jindal, Lucian Popa, Yannis Katsis, Sayan Ghosh, Lihong He, Yuxuan Lu, Shashank Srivastava, Yunyao Li, James Hendler, Dakuo Wang</li>
   <li>  <b>[EMNLP, DASH 2022]</b><a href="https://aclanthology.org/2022.dash-1.7/" target="_blank" LINK="red"> A Comparative Analysis between Human-in-the-loop Systems and Large Language Models for Pattern Extraction Tasks </a>
   <br> Maeda F. Hanafi, Yannis Katsis, Ishan Jindal, Lucian Popa</li>
 </ul>
