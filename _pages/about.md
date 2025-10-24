@@ -12,19 +12,21 @@ Hi! I am a **Staff Engineer** at **Samsung R&D Institute India – Delhi**.
 
 Before joining Samsung, I spent 4.5 wonderful years as a Staff Research Scientist at [IBM Research - Almaden](https://research.ibm.com/labs/almaden/).
 
-I earned my Ph.D. in Electrical Engineering from [Wayne State University](https://engineering.wayne.edu/), where my research focused on developing deep learning frameworks for unstructured and unreliable data. Prior to that, I completed my Master’s in Electrical Engineering at the [Indian Institute of Technology Roorkee](https://ee.iitr.ac.in/), where I was awarded the prestigious [DAAD Fellowship](https://www.daad.in/en/) to conduct my master’s thesis research at the Computer Vision and Remote Sensing Department, [Technical University Berlin](https://www.cv.tu-berlin.de/menue/computer_vision_remote_sensing/), Germany.
-
-Earlier, I also worked as a Junior Research Fellow at the [Indian Institute of Technology Gandhinagar](https://ee.iitgn.ac.in/), developing deep learning models for dynamic scene classification and object tracking.
+I earned my Ph.D. in Electrical Engineering from [Wayne State University](https://engineering.wayne.edu/), where my research focused on developing deep learning frameworks for unstructured and unreliable data. Prior to that, I completed my Master’s in Electrical Engineering at the [Indian Institute of Technology Roorkee](https://ee.iitr.ac.in/), where I was awarded the prestigious [DAAD Fellowship](https://www.daad.in/en/) to conduct my master’s thesis research at the Computer Vision and Remote Sensing Department, [Technical University Berlin](https://www.cv.tu-berlin.de/menue/computer_vision_remote_sensing/), Germany. Earlier, I also worked as a Junior Research Fellow at the [Indian Institute of Technology Gandhinagar](https://ee.iitgn.ac.in/), developing deep learning models for dynamic scene classification and object tracking. 
 
 My research interests lie in machine learning and deep learning for unstructured data, with a focus on natural language processing, computer vision, and information theory.
 
 Follow me on twitter [@Ishanjindal28](https://twitter.com/Ishanjindal28) and on [LinkedIn](https://www.linkedin.com/in/ishan-jindal/).
 
+### News
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7369558995755286528" height="874" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
+
+<!-- ## Recent News
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=gMb6U-05BPsglH54H5gDA4j8kCSud73mm-aJZYmNZt8&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
 
-<!-- ## Recent News
+
 
 ### Upcoming -->
 
