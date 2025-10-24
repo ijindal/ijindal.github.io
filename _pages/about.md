@@ -24,7 +24,7 @@ Follow me on twitter [@Ishanjindal28](https://twitter.com/Ishanjindal28) and on 
 
 <!-- ## Recent News
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=gMb6U-05BPsglH54H5gDA4j8kCSud73mm-aJZYmNZt8&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=gMb6U-05BPsglH54H5gDA4j8kCSud73mm-aJZYmNZt8&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script> <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7365068088301584384" height="1279" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
 
