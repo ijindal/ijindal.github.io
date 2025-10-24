@@ -180,6 +180,18 @@ As a researcher, I have had the opportunity to work across computer vision, natu
   </div>
 </div>
 
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[Journal of DSNA 2025]</b> 
+    <a href="https://muse.jhu.edu/article/963329#bio_bio02" target="_blank">Applying Linguistic Principles to PropBank Annotation Projection Between Languages.</a>
+  </div>
+  <div class="pub-authors">
+    Myers, Skatje, Ishan Jindal, and Martha Palmer.
+  </div>
+  <div class="pub-links">
+    <a href="https://muse.jhu.edu/article/963329#bio_bio02" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+  </div>
+</div>
 
 <div class="pub-card">
   <div class="pub-title">
@@ -220,6 +232,20 @@ As a researcher, I have had the opportunity to work across computer vision, natu
   </div>
   <div class="pub-links">
     <a href="https://aclanthology.org/2023.acl-long.53.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[Journal of NEJL 2023]</b> 
+    <a href="https://aclanthology.org/2023.nejlt-1.5/" target="_blank">NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation</a>
+  </div>
+  <div class="pub-authors">
+    Kaustubh Dhole, ... Ishan Jindal, ... 100+ researchers.
+  </div>
+  <div class="pub-links">
+    <a href="https://aclanthology.org/2023.nejlt-1.5.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>    
+    <a href="https://github.com/GEM-benchmark/NL-Augmenter" target="_blank"><i class="fa-solid fa-code"></i>Code</a>
   </div>
 </div>
 
