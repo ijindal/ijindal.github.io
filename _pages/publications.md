@@ -125,8 +125,6 @@ As a researcher, I have had the opportunity to work across computer vision, natu
 <!-- 🧠 NLP SECTION -->
 <h2 id="nlp">Natural Language Processing</h2>
 
-<h3>Shallow Semantic Parsing</h3>
-
 <div class="pub-card">
   <div class="pub-title">
     <b>[EACL Findings 2023]</b> 
@@ -155,6 +153,62 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://github.com/System-T/LabelAwareSRL" target="_blank"><i class="fa-solid fa-code"></i>Code</a>
   </div>
 </div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[LREC 2022]</b> 
+    <a href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.181.pdf" target="_blank">Universal Proposition Bank 2.0.</a>
+  </div>
+  <div class="pub-authors">
+    Ishan Jindal, Alexandre Rademaker, Michał Ulewicz, Linh Ha, Huyen Nguyen, Khoi-Nguyen Tran, Huaiyu Zhu, Yunyao Li
+  </div>
+  <div class="pub-links">
+    <a href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.181.pdf"  target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+    <a href="https://github.com/UniversalPropositions"  target="_blank"><i class="fa-solid fa-code"></i>Code</a>
+    <a href="https://universalpropositions.github.io/" target="_blank"><i class="fa-solid fa-brain"></i>Project</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[NAACL, SUKI 2022]</b> 
+    <a href="https://suki-workshop.github.io/assets/paper/3.pdf" target="_blank">Is Semantic-aware BERT more Linguistically Aware? A Case Study on Natural Language Inference.</a>
+  </div>
+  <div class="pub-authors">
+    Ling Liu, Ishan Jindal, Yunyao Li
+  </div>
+  <div class="pub-links">
+    <a href="https://suki-workshop.github.io/assets/paper/3.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+    <a href="https://github.com/System-T/LingBert" target="_blank"><i class="fa-solid fa-code"></i>Code</a>
+  </div>
+</div>
+  
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[EMNLP Findings 2021]</b> 
+    <a href="https://aclanthology.org/2020.findings-emnlp.279/" target="_blank">CLAR: A Cross-Lingual Argument Regularizer for Semantic Role Labeling.</a>
+  </div>
+  <div class="pub-authors">
+    Ishan Jindal, Yunyao Li, Siddhartha Brahma, Huaiyu Zhu
+  </div>
+  <div class="pub-links">
+    <a href="https://aclanthology.org/2020.findings-emnlp.279/" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+  </div>
+</div>
+  
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[Preprint 2020]</b> 
+    <a href="https://arxiv.org/abs/2011.14459" target="_blank">Improved Semantic Role Labeling using Parameterized Neighborhood Memory Adaptation.</a>
+  </div>
+  <div class="pub-authors">
+    Ishan Jindal, Ranit Aharonov, Siddhartha Brahma, Huaiyu Zhu, Yunyao Li
+  </div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2011.14459" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+  </div>
+</div>
+
 
 <!-- 🖼️ Computer Vision Section -->
 <h2 id="cv">Computer Vision</h2>
