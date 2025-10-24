@@ -306,7 +306,20 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://github.com/System-T/LingBert" target="_blank"><i class="fa-solid fa-code"></i>Code</a>
   </div>
 </div>
-  
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[EMNLP DASH 2022]</b> 
+    <a href="https://aclanthology.org/2022.dash-1.7/" target="_blank">A Comparative Analysis between Human-in-the-loop Systems and Large Language Models for Pattern Extraction Tasks.</a>
+  </div>
+  <div class="pub-authors">
+    Maeda F. Hanafi, Yannis Katsis, Ishan Jindal, Lucian Popa
+  </div>
+  <div class="pub-links">
+    <a href="https://aclanthology.org/2022.dash-1.7/" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+  </div>
+</div>
+
 <div class="pub-card">
   <div class="pub-title">
     <b>[EMNLP Findings 2021]</b> 
