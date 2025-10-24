@@ -127,6 +127,104 @@ As a researcher, I have had the opportunity to work across computer vision, natu
 
 <div class="pub-card">
   <div class="pub-title">
+    <b>[EMNLP Findings 2025]</b> 
+    <a href="https://github.com/JayantTaneja/Offloaded-Reasoning/blob/main/EMNLP2025_Offloaded_Reasoning.pdf" target="_blank">Offloaded Reasoning: Efficient Inference for Large Language Models via Modular Reasoning and Refinement</a>
+  </div>
+  <div class="pub-authors">
+    Ishan Jindal, Jayant Taneja, Badrinath Chandana, Vikas Kapur, Sachin Dev Sharma.
+  </div>
+  <div class="pub-links">
+    <a href="https://github.com/JayantTaneja/Offloaded-Reasoning/blob/main/EMNLP2025_Offloaded_Reasoning.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+    <a href="https://github.com/JayantTaneja/Offloaded-Reasoning" target="_blank"><i class="fa-solid fa-code"></i>Code</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[EMNLP Findings 2025]</b> 
+    <a href="" target="_blank">Identifying Noise in Human-Created Datasets using Training Dynamics from Generative Models</a>
+  </div>
+  <div class="pub-authors">
+    Maeda Hanafi, Ishan Jindal, Yannis Katsis, Lucian Popa, Huaiyu Zhu.
+  </div>
+  <div class="pub-links">
+    <a href="" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[ICML On-Device 2025 (ORAL)]</b> 
+    <a href="https://openreview.net/pdf?id=kwhQ6Btu5E" target="_blank">Offloaded Reasoning: Efficient Inference for Large Language Models via Modular Reasoning and Refinement</a>
+  </div>
+  <div class="pub-authors">
+    Ishan Jindal, Jayant Taneja, Badrinath Chandana, Vikas Kapur, Sachin Dev Sharma.
+  </div>
+  <div class="pub-links">
+    <a href="https://openreview.net/pdf?id=kwhQ6Btu5E" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+    <a href="https://github.com/JayantTaneja/Offloaded-Reasoning" target="_blank"><i class="fa-solid fa-code"></i>Code</a>
+
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[ICML PUT 2025]</b> 
+    <a href="https://openreview.net/pdf?id=qE0lPCBkD4" target="_blank">Keep the Alignment, Skip the Overhead: Lightweight Instruction Alignment for Continually Trained LLMs.</a>
+  </div>
+  <div class="pub-authors">
+    Ishan Jindal, Badrinath Chandana, Pranjal Bharti, Lakkidi Vinay, Sachin Dev Sharma.
+  </div>
+  <div class="pub-links">
+    <a href="https://openreview.net/pdf?id=qE0lPCBkD4" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+  </div>
+</div>
+
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[EMNLP Main 2023]</b> 
+    <a href="https://aclanthology.org/2023.emnlp-main.376/" target="_blank">Abstractive Open Information Extraction.</a>
+  </div>
+  <div class="pub-authors">
+    Kevin Pei, Ishan Jindal, and Kevin Chen-Chuan Chang.
+  </div>
+  <div class="pub-links">
+    <a href="https://aclanthology.org/2023.emnlp-main.376/" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+    <a href="https://github.com/kevinpei/AbstractiveOpenIE" target="_blank"><i class="fa-solid fa-code"></i>Code</a>
+
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[EMNLP Findings 2023]</b> 
+    <a href="https://aclanthology.org/2023.findings-emnlp.778/" target="_blank">Beyond Labels: Empowering Human Annotators with Natural Language Explanations through a Novel Active-Learning Architecture</a>
+  </div>
+  <div class="pub-authors">
+    Bingsheng Yao, Ishan Jindal, Lucian Popa, Yannis Katsis, Sayan Ghosh, Lihong He, Yuxuan Lu, Shashank Srivastava, Yunyao Li, James Hendler, and Dakuo Wang.
+  </div>
+  <div class="pub-links">
+    <a href="https://aclanthology.org/2023.findings-emnlp.778.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+  </div>
+</div>
+
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[ACL Main 2023]</b> 
+    <a href="https://aclanthology.org/2023.acl-long.53/" target="_blank">When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications.</a>
+  </div>
+  <div class="pub-authors">
+    Kevin Pei, Ishan Jindal, and Kevin Chen-Chuan Chang.
+  </div>
+  <div class="pub-links">
+    <a href="https://aclanthology.org/2023.acl-long.53.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
     <b>[EACL Findings 2023]</b> 
     <a href="https://aclanthology.org/2023.findings-eacl.134/" target="_blank">PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation</a>
   </div>
@@ -142,7 +240,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
 
 <div class="pub-card">
   <div class="pub-title">
-    <b>[NAACL 2022]</b> 
+    <b>[NAACL Main 2022]</b> 
     <a href="https://aclanthology.org/2022.naacl-main.411/" target="_blank">Label Definitions Improve Semantic Role Labeling</a>
   </div>
   <div class="pub-authors">
@@ -156,7 +254,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
 
 <div class="pub-card">
   <div class="pub-title">
-    <b>[LREC 2022]</b> 
+    <b>[LREC Main 2022]</b> 
     <a href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.181.pdf" target="_blank">Universal Proposition Bank 2.0.</a>
   </div>
   <div class="pub-authors">
@@ -171,7 +269,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
 
 <div class="pub-card">
   <div class="pub-title">
-    <b>[NAACL, SUKI 2022]</b> 
+    <b>[NAACL SUKI 2022]</b> 
     <a href="https://suki-workshop.github.io/assets/paper/3.pdf" target="_blank">Is Semantic-aware BERT more Linguistically Aware? A Case Study on Natural Language Inference.</a>
   </div>
   <div class="pub-authors">
