@@ -41,6 +41,12 @@ author_profile: true
   box-shadow: 0 4px 10px rgba(0,0,0,0.08);
   transform: translateY(-2px);
 }
+.talk-image {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-bottom: 1px solid #ddd;
+}
 .talk-title a {
   color: #004d99;
   text-decoration: none;
@@ -151,6 +157,7 @@ author_profile: true
   </div>
 
   <div class="talk-card">
+    <img src="../files/2020_EMNLP_T1_Meaning_Representations_for_Natural_Languages.png" alt="EMNLP Tutorial" class="talk-image">
     <div class="talk-title">
       <b>EMNLP 2022 Tutorial:</b> 
       <a href="https://aclanthology.org/2022.emnlp-tutorials.1/" target="_blank">
@@ -179,7 +186,7 @@ author_profile: true
 
   <div class="talk-card">
     <div class="talk-title">
-      <b>NLP 203 @ UC Santa Cruz 2021</b>
+      <b>NLP 203 @ UC Santa Cruz 2021:</b>
       <a href="https://www.meetup.com/Ann-Arbor-Detroit-NLPers-A2D-NLP/events/261618219/" target="_blank">
         Cross-lingual IE and Prompt Engineering
       </a>
