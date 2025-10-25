@@ -74,6 +74,47 @@ author_profile: true
 ---
 
 <div class="talk-grid">
+
+  <div class="talk-card">
+    <div class="talk-title">
+      <b>TLC Seminar 2025@ Samsung R&D India, Delhi:</b>
+      Agentic AI: Design Patterns and Protocols
+    </div>
+    <div class="talk-authors">
+      <b>Ishan Jindal</b>
+    </div>
+    <div class="talk-links">
+      <i class="fa-solid fa-calendar-days"></i> 2025
+    </div>
+  </div>
+
+  <div class="talk-card">
+    <div class="talk-title">
+      <b>Invited Talk @ Indo-Thai Workshop on AI Driven Innovations, IIT Gandhinagar:</b>
+      Compact and Domain-specific LLMs with Infinite Context Length
+    </div>
+    <div class="talk-authors">
+      <b>Ishan Jindal</b>
+    </div>
+    <div class="talk-links">
+      <i class="fa-solid fa-calendar-days"></i> 2025
+    </div>
+  </div>
+
+  
+  <div class="talk-card">
+    <div class="talk-title">
+      <b>TLC Seminar 2024@ Samsung R&D India, Delhi:</b>
+      Retrieval Augmented Generation
+    </div>
+    <div class="talk-authors">
+      <b>Ishan Jindal</b>
+    </div>
+    <div class="talk-links">
+      <i class="fa-solid fa-calendar-days"></i> 2024
+    </div>
+  </div>
+  
   <div class="talk-card">
     <div class="talk-title">
       <b>LREC-COLING 2024 Tutorial:</b> 
