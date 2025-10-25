@@ -45,7 +45,7 @@ author_profile: true
   width: 100%;
   height: 200px; 
   object-fit: contain; /* ensures full image shown */
-  background-color: #fff;
+  background-color: #fafafa;
   border-bottom: 1px solid #ddd;
   padding: 5px; /* adds a small gap around image */
 }
@@ -97,6 +97,7 @@ author_profile: true
   </div>
 
   <div class="talk-card">
+    <img src="../files/2025_Aldi_IITGn.png" alt="UCSCNLP" class="talk-image">
     <div class="talk-title">
       <b>Invited Talk 2025 @ Indo-Thai Workshop on AI Driven Innovations, IIT Gandhinagar:</b>
       Compact and Domain-specific LLMs with Infinite Context Length
@@ -126,6 +127,7 @@ author_profile: true
   </div>
   
   <div class="talk-card">
+    <img src="../files/2024_Coling_Tutorial.png" alt="Coling" class="talk-image">
     <div class="talk-title">
       <b>LREC-COLING 2024 Tutorial:</b> 
       <a href="https://lrec-coling-2024.org/tutorials/" target="_blank">
@@ -142,6 +144,7 @@ author_profile: true
   </div>
 
   <div class="talk-card">
+    <img src="../files/2023_IJCAI_Tutorial.png" alt="IJCAI" class="talk-image">
     <div class="talk-title">
       <b>IJCAI 2023 Tutorial:</b> 
       <a href="https://ijcai-23.org/tutorials/" target="_blank">
