@@ -49,7 +49,7 @@ author_profile: true
 .talk-title a:hover {
   text-decoration: underline;
 }
-.talk-authors {
+.talk-coauthors {
   font-size: 0.95em;
   margin-top: 8px;
   color: #444;
@@ -81,8 +81,12 @@ author_profile: true
         Meaning Representations for Natural Languages: Design, Models, and Applications
       </a>
     </div>
-    <div class="talk-authors">
-      Julia Bonn, Jeffrey Flanigan, Jan Hajič, <b>Ishan Jindal</b>, Yunyao Li, and Nianwen Xue
+    <div class="talk-coauthors">
+      Presented with: Julia Bonn, 
+      <a href="https://jflanigan.github.io/">Jeffrey Flanigan</a>,  
+      <a href="https://en.wikipedia.org/wiki/Jan_Haji%C4%8D">Jan Hajič</a>, 
+      <a href="https://yunyaoli.github.io/">Yunyao Li</a>,
+      <a href="https://www.cs.brandeis.edu/~xuen/">Nianwen Xue</a>
     </div>
   </div>
 
@@ -93,8 +97,13 @@ author_profile: true
         Meaning Representations for Natural Languages: Design, Models, and Applications
       </a>
     </div>
-    <div class="talk-authors">
-      Julia Bonn, Jeffrey Flanigan, Timothy O’Gorman, Jan Hajič, <b>Ishan Jindal</b>, Yunyao Li, and Nianwen Xue
+    <div class="talk-coauthors">
+      Presented with: Julia Bonn, 
+      <a href="https://jflanigan.github.io/">Jeffrey Flanigan</a>,  
+      <a href="https://timjogorman.github.io/">Tim O’Gorman</a>, 
+      <a href="https://en.wikipedia.org/wiki/Jan_Haji%C4%8D">Jan Hajič</a>,
+      <a href="https://yunyaoli.github.io/">Yunyao Li</a>,
+      <a href="https://www.cs.brandeis.edu/~xuen/">Nianwen Xue</a>
     </div>
   </div>
 
@@ -105,10 +114,9 @@ author_profile: true
         Meaning Representations for Natural Languages: Design, Models, and Applications
       </a>
     </div>
-    <div class="talk-authors">
-      <a href="https://jflanigan.github.io/">Jeffrey Flanigan</a>, 
+    <div class="talk-coauthors">
+      Presented with: <a href="https://jflanigan.github.io/">Jeffrey Flanigan</a>, 
       <a href="https://timjogorman.github.io/">Tim O’Gorman</a>, 
-      <b>Ishan Jindal</b>, 
       <a href="https://yunyaoli.github.io/">Yunyao Li</a>, 
       <a href="https://www.colorado.edu/faculty/palmer-martha">Martha Palmer</a>, 
       <a href="https://www.cs.brandeis.edu/~xuen/">Nianwen Xue</a>
@@ -125,4 +133,38 @@ author_profile: true
       </a>
     </div>
   </div>
+
+
+  <div class="talk-card">
+    <div class="talk-title">
+      <b>Invited Talk @ A2D NLP Meetup:</b>
+      <a href="https://www.meetup.com/Ann-Arbor-Detroit-NLPers-A2D-NLP/events/261618219/" target="_blank">
+        An Effective Label Noise Model for DNN Text Classification
+      </a>
+    </div>
+    <div class="talk-authors">
+      <b>Ishan Jindal</b>
+    </div>
+    <div class="talk-links">
+      <a href="https://www.meetup.com/Ann-Arbor-Detroit-NLPers-A2D-NLP/events/261618219/" target="_blank">
+        <i class="fa-solid fa-globe"></i> Event Page
+      </a>
+    </div>
+  </div>
+
+  <div class="talk-card">
+    <div class="talk-title">
+      <b>Invited Talk @ IEEE SEM Conference:</b>
+      <a href="https://events.vtools.ieee.org/m/191793" target="_blank">
+        Classification of Noisy Multidimensional Images using Deep Learning
+      </a>
+    </div>
+    <div class="talk-authors">
+      <b>Ishan Jindal</b>
+    </div>
+    <div class="talk-links">
+      <a href="https://events.vtools.ieee.org/m/191793" target="_blank">
+        <i class="fa-solid fa-globe"></i> Event Page
+      </a>
+    </div>
 </div>
