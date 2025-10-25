@@ -158,7 +158,7 @@ author_profile: true
     </div>
   </div>
 
-  <div class="talk-card">
+  <div class="talk-card"> 
     <img src="../files/2020_EMNLP_T1_Meaning_Representations_for_Natural_Languages.png" alt="EMNLP Tutorial" class="talk-image">
     <div class="talk-title">
       <b>EMNLP 2022 Tutorial:</b> 
@@ -187,8 +187,9 @@ author_profile: true
   </div>
 
   <div class="talk-card">
+    <img src="../files/2022_UCSC_NLP203.png" alt="UCSCNLP" class="talk-image">
     <div class="talk-title">
-      <b>NLP 203 @ UC Santa Cruz 2021:</b>
+      <b>NLP 203 @ UC Santa Cruz 2022:</b>
       <a href="https://www.meetup.com/Ann-Arbor-Detroit-NLPers-A2D-NLP/events/261618219/" target="_blank">
         Cross-lingual IE and Prompt Engineering
       </a>
