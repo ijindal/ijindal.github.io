@@ -8,24 +8,28 @@ redirect_from:
   - /about.html
 ---
 
+
+
 <style>
 .news-panel {
-  width: 520px; /* slightly wider than iframe width */
-  max-height: 800px; /* set the visible height */
-  margin: 0 auto; /* center horizontally */
-  overflow-y: auto; /* vertical scrollbar */
+  width: 600px;      /* increased overall width */
+  max-height: 1000px; /* taller visible area */
+  margin: 0 auto;     /* center horizontally */
+  overflow-y: auto;   /* vertical scroll */
   border: 1px solid #ddd;
   border-radius: 12px;
-  padding: 10px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 15px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.12);
   background-color: #fff;
 }
 
-/* Make iframes fill panel width and maintain proportions */
+/* Make iframes larger but still fit panel width */
 .news-panel iframe {
   width: 100%;
   max-width: 100%;
-  margin-bottom: 20px; /* spacing between posts */
+  height: 700px;      /* increased height */
+  margin-bottom: 25px; /* spacing between posts */
+  border-radius: 8px;
 }
 </style>
 
