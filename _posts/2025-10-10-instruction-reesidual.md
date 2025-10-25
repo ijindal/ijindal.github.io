@@ -1,5 +1,5 @@
 ---
-title: 'Instruction Residuals: Keeping LLMs Aligned Without the Cost'
+title: 'Keeping LLMs Aligned Without the Cost: The Story of Instruction Residuals'
 date: 2025-10-10
 permalink: /posts/2025/10/instruction-residual-1/
 tags:
