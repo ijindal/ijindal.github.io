@@ -346,22 +346,150 @@ As a researcher, I have had the opportunity to work across computer vision, natu
   </div>
 </div>
 
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[NAACL Main 2019]</b>
+    <a href="https://aclanthology.org/N19-1328/" target="_blank">
+      An Effective Label Noise Model for DNN Text Classification
+    </a>
+  </div>
+  <div class="pub-authors">
+    <b>Ishan Jindal</b>, Daniel Pressel, Brian Lester, Matthew Nokleby
+  </div>
+  <div class="pub-venue">
+    <i>In North American Chapter of the Association for Computational Linguistics (NAACL 2019)</i>
+  </div>
+  <div class="pub-links">
+    <a href="https://aclanthology.org/N19-1328/" target="_blank">
+      <i class="fa-solid fa-file-pdf"></i> PDF
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/ijindal/baseline/blob/feat/noisylabel/python/addons/noisyconv_pyt.py" target="_blank">
+      <i class="fa-solid fa-laptop-code"></i> Code
+    </a>
+  </div>
+</div>
 
 <!-- 🖼️ Computer Vision Section -->
 <h2 id="cv">Computer Vision</h2>
 
 <div class="pub-card">
   <div class="pub-title">
-    <b>[CVPRW 2019]</b> 
-    <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/Deep%20Vision%20Workshop/Jindal_A_Nonlinear_Noise-aware_Quasi-clustering_Approach_to_Learning_Deep_CNNs_from_Noisy_Labels_CVPRW_2019_paper.pdf" target="_blank">
+    <b>[Book Chapter 2020]</b>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-030-31756-0_7" target="_blank">
+      Deep Neural Networks for Corrupted Labels
+    </a>
+  </div>
+  <div class="pub-authors">
+    <b>Ishan Jindal</b>, Matthew Nokleby, Daniel Pressel, Xuewen Chen, Harpreet Singh
+  </div>
+  <div class="pub-venue">
+    <i>In Book <em>Deep Learning: Concepts and Architectures</em> by Springer</i>
+  </div>
+  <div class="pub-links">
+    <a href="https://link.springer.com/chapter/10.1007/978-3-030-31756-0_7" target="_blank">
+      <i class="fa-solid fa-book"></i> Book Chapter
+    </a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[CVPRW 2019]</b>
+    <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/Deep%20Vision%20Workshop/Jindal_A_Nonlinear_Noise-aware_Quasi-clustering_Approach_to_Learning_Deep_CNNs_from_CVPRW_2019_paper.pdf" target="_blank">
       A Nonlinear, Noise-aware, Quasi-clustering Approach to Learning Deep CNNs from Noisy Labels
     </a>
   </div>
   <div class="pub-authors">
-    <b>Ishan Jindal</b>, Matthew Nokleby, Daniel Pressel, Xuewen Chen
+    <b>Ishan Jindal</b>, Matthew S Nokleby, Daniel Pressel, Xuewen Chen
+  </div>
+  <div class="pub-venue">
+    <i>In IEEE CVPR 2019 Workshop</i>
   </div>
   <div class="pub-links">
-    <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/Deep%20Vision%20Workshop/Jindal_A_Nonlinear_Noise-aware_Quasi-clustering_Approach_to_Learning_Deep_CNNs_from_Noisy_Labels_CVPRW_2019_paper.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+    <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/Deep%20Vision%20Workshop/Jindal_A_Nonlinear_Noise-aware_Quasi-clustering_Approach_to_Learning_Deep_CNNs_from_CVPRW_2019_paper.pdf" target="_blank">
+      <i class="fa-solid fa-file-pdf"></i> PDF
+    </a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[ICDM 2016]</b>
+    <a href="https://ieeexplore.ieee.org/abstract/document/7837934" target="_blank">
+      Learning Deep Networks from Noisy Labels with Dropout Regularization
+    </a>
+  </div>
+  <div class="pub-authors">
+    <b>Ishan Jindal</b>, Matthew Nokleby, Xuewen Chen
+  </div>
+  <div class="pub-venue">
+    <i>In IEEE 16th International Conference on Data Mining (ICDM 2016)</i>
+  </div>
+  <div class="pub-links">
+    <a href="https://ieeexplore.ieee.org/abstract/document/7837934" target="_blank">
+      <i class="fa-solid fa-file-pdf"></i> PDF
+    </a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[GlobalSIP 2016]</b>
+    <a href="https://ieeexplore.ieee.org/abstract/document/7906042" target="_blank">
+      Dynamic Scene Classification Using Convolutional Neural Networks
+    </a>
+  </div>
+  <div class="pub-authors">
+    Aalok Gangopadhyay, Shivam Mani Tripathi, <b>Ishan Jindal</b>, Shanmuganathan Raman
+  </div>
+  <div class="pub-venue">
+    <i>In IEEE Global Conference on Signal and Information Processing (2016)</i>
+  </div>
+  <div class="pub-links">
+    <a href="https://ieeexplore.ieee.org/abstract/document/7906042" target="_blank">
+      <i class="fa-solid fa-file-pdf"></i> PDF
+    </a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[IConSIP 2016]</b>
+    <a href="https://ieeexplore.ieee.org/abstract/document/7857446" target="_blank">
+      Effective Object Tracking in Unstructured Crowd Scenes
+    </a>
+  </div>
+  <div class="pub-authors">
+    <b>Ishan Jindal</b>, Shanmuganathan Raman
+  </div>
+  <div class="pub-venue">
+    <i>In IEEE International Conference on Signal and Information Processing (2016)</i>
+  </div>
+  <div class="pub-links">
+    <a href="https://ieeexplore.ieee.org/abstract/document/7857446" target="_blank">
+      <i class="fa-solid fa-file-pdf"></i> PDF
+    </a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[NCVPRIPG 2015]</b>
+    <a href="https://ieeexplore.ieee.org/abstract/document/7490054" target="_blank">
+      Semantic Description of a Video Using Representative Frames
+    </a>
+  </div>
+  <div class="pub-authors">
+    <b>Ishan Jindal</b>, Shanmuganathan Raman
+  </div>
+  <div class="pub-venue">
+    <i>In IEEE Fifth National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (2015)</i>
+  </div>
+  <div class="pub-links">
+    <a href="https://ieeexplore.ieee.org/abstract/document/7490054" target="_blank">
+      <i class="fa-solid fa-file-pdf"></i> PDF
+    </a>
   </div>
 </div>
 
@@ -385,13 +513,13 @@ As a researcher, I have had the opportunity to work across computer vision, natu
 <div class="pub-card">
   <div class="pub-title">
     <b>[Accepted at MLDM 2017 conference]</b> 
-    <a href="https://arxiv.org/abs/1710.04350"target="_blank">A Unified Neural Network Approach for Estimating Travel Time and Distance for a Taxi Trip.</a>
+    <a href="https://arxiv.org/abs/1710.04350" target="_blank">A Unified Neural Network Approach for Estimating Travel Time and Distance for a Taxi Trip.</a>
   </div>
   <div class="pub-authors">
     <b>Ishan Jindal</b>, Zhiwei Tony Qin, Xuewen Chen, Matthew Nokleby, Jieping Ye 
   </div>
   <div class="pub-links">
-    <a href="https://arxiv.org/abs/1710.04350"target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+    <a href="https://arxiv.org/abs/1710.04350" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
   </div>
 </div>
 
