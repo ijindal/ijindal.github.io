@@ -90,14 +90,16 @@ author_profile: true
 
   <div class="talk-card">
     <div class="talk-title">
-      <b>Invited Talk @ Indo-Thai Workshop on AI Driven Innovations, IIT Gandhinagar:</b>
+      <b>Invited Talk 2025 @ Indo-Thai Workshop on AI Driven Innovations, IIT Gandhinagar:</b>
       Compact and Domain-specific LLMs with Infinite Context Length
     </div>
     <div class="talk-authors">
       <b>Ishan Jindal</b>
     </div>
     <div class="talk-links">
-      <i class="fa-solid fa-calendar-days"></i> 2025
+      <a href=" https://events.iitgn.ac.in/2025/aidi/speakers.html" target="_blank">
+        <i class="fa-solid fa-globe"></i> Event Page
+      </a>
     </div>
   </div>
 
@@ -175,10 +177,26 @@ author_profile: true
     </div>
   </div>
 
+  <div class="talk-card">
+    <div class="talk-title">
+      <b>NLP 203 @ UC Santa Cruz 2021</b>
+      <a href="https://www.meetup.com/Ann-Arbor-Detroit-NLPers-A2D-NLP/events/261618219/" target="_blank">
+        Cross-lingual IE and Prompt Engineering
+      </a>
+    </div>
+    <div class="talk-authors">
+      <b>Ishan Jindal</b>
+    </div>
+    <div class="talk-links">
+      <a href="https://courses.engineering.ucsc.edu/courses/nlp203/Spring22/50" target="_blank">
+        <i class="fa-solid fa-globe"></i> Event Page
+      </a>
+    </div>
+  </div>
 
   <div class="talk-card">
     <div class="talk-title">
-      <b>Invited Talk @ A2D NLP Meetup:</b>
+      <b>Invited Talk @ A2D NLP Meetup 2019:</b>
       <a href="https://www.meetup.com/Ann-Arbor-Detroit-NLPers-A2D-NLP/events/261618219/" target="_blank">
         An Effective Label Noise Model for DNN Text Classification
       </a>
@@ -195,7 +213,7 @@ author_profile: true
 
   <div class="talk-card">
     <div class="talk-title">
-      <b>Invited Talk @ IEEE SEM Conference:</b>
+      <b>Invited Talk @ IEEE SEM Conference 2019:</b>
       <a href="https://events.vtools.ieee.org/m/191793" target="_blank">
         Classification of Noisy Multidimensional Images using Deep Learning
       </a>
