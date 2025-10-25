@@ -131,7 +131,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://github.com/JayantTaneja/Offloaded-Reasoning/blob/main/EMNLP2025_Offloaded_Reasoning.pdf" target="_blank">Offloaded Reasoning: Efficient Inference for Large Language Models via Modular Reasoning and Refinement</a>
   </div>
   <div class="pub-authors">
-    Ishan Jindal, Jayant Taneja, Badrinath Chandana, Vikas Kapur, Sachin Dev Sharma.
+    <b>Ishan Jindal</b>, Jayant Taneja, Badrinath Chandana, Vikas Kapur, Sachin Dev Sharma.
   </div>
   <div class="pub-links">
     <a href="https://github.com/JayantTaneja/Offloaded-Reasoning/blob/main/EMNLP2025_Offloaded_Reasoning.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
@@ -145,7 +145,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="" target="_blank">Identifying Noise in Human-Created Datasets using Training Dynamics from Generative Models</a>
   </div>
   <div class="pub-authors">
-    Maeda Hanafi, Ishan Jindal, Yannis Katsis, Lucian Popa, Huaiyu Zhu.
+    Maeda Hanafi, <b>Ishan Jindal</b>, Yannis Katsis, Lucian Popa, Huaiyu Zhu.
   </div>
   <div class="pub-links">
     <a href="" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
@@ -158,7 +158,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://openreview.net/pdf?id=kwhQ6Btu5E" target="_blank">Offloaded Reasoning: Efficient Inference for Large Language Models via Modular Reasoning and Refinement</a>
   </div>
   <div class="pub-authors">
-    Ishan Jindal, Jayant Taneja, Badrinath Chandana, Vikas Kapur, Sachin Dev Sharma.
+    <b>Ishan Jindal</b>, Jayant Taneja, Badrinath Chandana, Vikas Kapur, Sachin Dev Sharma.
   </div>
   <div class="pub-links">
     <a href="https://openreview.net/pdf?id=kwhQ6Btu5E" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
@@ -173,7 +173,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://openreview.net/pdf?id=qE0lPCBkD4" target="_blank">Keep the Alignment, Skip the Overhead: Lightweight Instruction Alignment for Continually Trained LLMs.</a>
   </div>
   <div class="pub-authors">
-    Ishan Jindal, Badrinath Chandana, Pranjal Bharti, Lakkidi Vinay, Sachin Dev Sharma.
+    <b>Ishan Jindal</b>, Badrinath Chandana, Pranjal Bharti, Lakkidi Vinay, Sachin Dev Sharma.
   </div>
   <div class="pub-links">
     <a href="https://openreview.net/pdf?id=qE0lPCBkD4" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
@@ -186,7 +186,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://muse.jhu.edu/article/963329#bio_bio02" target="_blank">Applying Linguistic Principles to PropBank Annotation Projection Between Languages.</a>
   </div>
   <div class="pub-authors">
-    Myers, Skatje, Ishan Jindal, and Martha Palmer.
+    Myers, Skatje, <b>Ishan Jindal</b>, and Martha Palmer.
   </div>
   <div class="pub-links">
     <a href="https://muse.jhu.edu/article/963329#bio_bio02" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
@@ -199,7 +199,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://aclanthology.org/2023.emnlp-main.376/" target="_blank">Abstractive Open Information Extraction.</a>
   </div>
   <div class="pub-authors">
-    Kevin Pei, Ishan Jindal, and Kevin Chen-Chuan Chang.
+    Kevin Pei, <b>Ishan Jindal</b>, and Kevin Chen-Chuan Chang.
   </div>
   <div class="pub-links">
     <a href="https://aclanthology.org/2023.emnlp-main.376/" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
@@ -214,7 +214,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://aclanthology.org/2023.findings-emnlp.778/" target="_blank">Beyond Labels: Empowering Human Annotators with Natural Language Explanations through a Novel Active-Learning Architecture</a>
   </div>
   <div class="pub-authors">
-    Bingsheng Yao, Ishan Jindal, Lucian Popa, Yannis Katsis, Sayan Ghosh, Lihong He, Yuxuan Lu, Shashank Srivastava, Yunyao Li, James Hendler, and Dakuo Wang.
+    Bingsheng Yao, <b>Ishan Jindal</b>, Lucian Popa, Yannis Katsis, Sayan Ghosh, Lihong He, Yuxuan Lu, Shashank Srivastava, Yunyao Li, James Hendler, and Dakuo Wang.
   </div>
   <div class="pub-links">
     <a href="https://aclanthology.org/2023.findings-emnlp.778.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
@@ -228,7 +228,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://aclanthology.org/2023.acl-long.53/" target="_blank">When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications.</a>
   </div>
   <div class="pub-authors">
-    Kevin Pei, Ishan Jindal, and Kevin Chen-Chuan Chang.
+    Kevin Pei, <b>Ishan Jindal</b>, and Kevin Chen-Chuan Chang.
   </div>
   <div class="pub-links">
     <a href="https://aclanthology.org/2023.acl-long.53.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
@@ -241,7 +241,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://aclanthology.org/2023.nejlt-1.5/" target="_blank">NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation</a>
   </div>
   <div class="pub-authors">
-    Kaustubh Dhole, ... Ishan Jindal, ... 100+ researchers.
+    Kaustubh Dhole, ... <b>Ishan Jindal</b>, ... 100+ researchers.
   </div>
   <div class="pub-links">
     <a href="https://aclanthology.org/2023.nejlt-1.5.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>    
@@ -255,7 +255,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://aclanthology.org/2023.findings-eacl.134/" target="_blank">PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation</a>
   </div>
   <div class="pub-authors">
-    Ishan Jindal, Alexandre Rademaker, Khoi-Nguyen Tran, Huaiyu Zhu, Hiroshi Kanayama, Marina Danilevsky, Yunyao Li
+    <b>Ishan Jindal</b>, Alexandre Rademaker, Khoi-Nguyen Tran, Huaiyu Zhu, Hiroshi Kanayama, Marina Danilevsky, Yunyao Li
   </div>
   <div class="pub-links">
     <a href="https://aclanthology.org/2023.findings-eacl.134/" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
@@ -270,7 +270,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://aclanthology.org/2022.naacl-main.411/" target="_blank">Label Definitions Improve Semantic Role Labeling</a>
   </div>
   <div class="pub-authors">
-    Li Zhang, Ishan Jindal, Yunyao Li
+    Li Zhang, <b>Ishan Jindal</b>, Yunyao Li
   </div>
   <div class="pub-links">
     <a href="https://aclanthology.org/2022.naacl-main.411/" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
@@ -284,7 +284,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.181.pdf" target="_blank">Universal Proposition Bank 2.0.</a>
   </div>
   <div class="pub-authors">
-    Ishan Jindal, Alexandre Rademaker, Michał Ulewicz, Linh Ha, Huyen Nguyen, Khoi-Nguyen Tran, Huaiyu Zhu, Yunyao Li
+    <b>Ishan Jindal</b>, Alexandre Rademaker, Michał Ulewicz, Linh Ha, Huyen Nguyen, Khoi-Nguyen Tran, Huaiyu Zhu, Yunyao Li
   </div>
   <div class="pub-links">
     <a href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.181.pdf"  target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
@@ -299,7 +299,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://suki-workshop.github.io/assets/paper/3.pdf" target="_blank">Is Semantic-aware BERT more Linguistically Aware? A Case Study on Natural Language Inference.</a>
   </div>
   <div class="pub-authors">
-    Ling Liu, Ishan Jindal, Yunyao Li
+    Ling Liu, <b>Ishan Jindal</b>, Yunyao Li
   </div>
   <div class="pub-links">
     <a href="https://suki-workshop.github.io/assets/paper/3.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
@@ -313,7 +313,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://aclanthology.org/2022.dash-1.7/" target="_blank">A Comparative Analysis between Human-in-the-loop Systems and Large Language Models for Pattern Extraction Tasks.</a>
   </div>
   <div class="pub-authors">
-    Maeda F. Hanafi, Yannis Katsis, Ishan Jindal, Lucian Popa
+    Maeda F. Hanafi, Yannis Katsis, <b>Ishan Jindal</b>, Lucian Popa
   </div>
   <div class="pub-links">
     <a href="https://aclanthology.org/2022.dash-1.7/" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
@@ -326,7 +326,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://aclanthology.org/2020.findings-emnlp.279/" target="_blank">CLAR: A Cross-Lingual Argument Regularizer for Semantic Role Labeling.</a>
   </div>
   <div class="pub-authors">
-    Ishan Jindal, Yunyao Li, Siddhartha Brahma, Huaiyu Zhu
+    <b>Ishan Jindal</b>, Yunyao Li, Siddhartha Brahma, Huaiyu Zhu
   </div>
   <div class="pub-links">
     <a href="https://aclanthology.org/2020.findings-emnlp.279/" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
@@ -339,7 +339,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://arxiv.org/abs/2011.14459" target="_blank">Improved Semantic Role Labeling using Parameterized Neighborhood Memory Adaptation.</a>
   </div>
   <div class="pub-authors">
-    Ishan Jindal, Ranit Aharonov, Siddhartha Brahma, Huaiyu Zhu, Yunyao Li
+    <b>Ishan Jindal</b>, Ranit Aharonov, Siddhartha Brahma, Huaiyu Zhu, Yunyao Li
   </div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2011.14459" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
@@ -358,7 +358,7 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     </a>
   </div>
   <div class="pub-authors">
-    Ishan Jindal, Matthew Nokleby, Daniel Pressel, Xuewen Chen
+    <b>Ishan Jindal</b>, Matthew Nokleby, Daniel Pressel, Xuewen Chen
   </div>
   <div class="pub-links">
     <a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/Deep%20Vision%20Workshop/Jindal_A_Nonlinear_Noise-aware_Quasi-clustering_Approach_to_Learning_Deep_CNNs_from_Noisy_Labels_CVPRW_2019_paper.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
@@ -374,10 +374,24 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://ieeexplore.ieee.org/abstract/document/8622481" target="_blank">Optimizing Taxi Carpool Policies via Reinforcement Learning and Spatio-temporal Mining</a>
   </div>
   <div class="pub-authors">
-    Ishan Jindal, Zhiwei Tony Qin, Xuewen Chen, Matthew Nokleby, Jieping Ye
+    <b>Ishan Jindal</b>, Zhiwei Tony Qin, Xuewen Chen, Matthew Nokleby, Jieping Ye
   </div>
   <div class="pub-links">
     <a href="https://ieeexplore.ieee.org/abstract/document/8622481" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+  </div>
+</div>
+
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[Accepted at MLDM 2017 conference]</b> 
+    <a href="https://arxiv.org/abs/1710.04350"target="_blank">A Unified Neural Network Approach for Estimating Travel Time and Distance for a Taxi Trip.</a>
+  </div>
+  <div class="pub-authors">
+    <b>Ishan Jindal</b>, Zhiwei Tony Qin, Xuewen Chen, Matthew Nokleby, Jieping Ye 
+  </div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/1710.04350"target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
   </div>
 </div>
 
@@ -390,10 +404,70 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://ieeexplore.ieee.org/abstract/document/8683804" target="_blank">Tensor Matched Kronecker-Structured Subspace Detection for Missing Information</a>
   </div>
   <div class="pub-authors">
-    Ishan Jindal, Matthew Nokleby
+    <b>Ishan Jindal</b>, Matthew Nokleby
   </div>
   <div class="pub-links">
     <a href="https://ieeexplore.ieee.org/abstract/document/8683804" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[Journal 2018]</b>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8361501" target="_blank">
+      Classification and Representation via Separable Subspaces: Performance Limits and Algorithms
+    </a>
+  </div>
+  <div class="pub-authors">
+    <b>Ishan Jindal</b>, Matthew Nokleby
+  </div>
+  <div class="pub-venue">
+    <i>In IEEE Journal of Selected Topics in Signal Processing</i>
+  </div>
+  <div class="pub-links">
+    <a href="https://ieeexplore.ieee.org/abstract/document/8361501" target="_blank">
+      <i class="fa-solid fa-file-pdf"></i>PDF
+    </a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[ISIT 2017]</b>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8006879" target="_blank">
+      Performance Limits on the Classification of Kronecker-Structured Models
+    </a>
+  </div>
+  <div class="pub-authors">
+    <b>Ishan Jindal</b>, Matthew Nokleby
+  </div>
+  <div class="pub-venue">
+    <i>In IEEE International Symposium on Information Theory (ISIT)</i>
+  </div>
+  <div class="pub-links">
+    <a href="https://ieeexplore.ieee.org/abstract/document/8006879" target="_blank">
+      <i class="fa-solid fa-file-pdf"></i>PDF
+    </a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[Asilomar 2017]</b>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8335166" target="_blank">
+      Fast and Compact Kronecker-Structured Dictionary Learning for Classification and Representation
+    </a>
+  </div>
+  <div class="pub-authors">
+    <b>Ishan Jindal</b>, Matthew Nokleby
+  </div>
+  <div class="pub-venue">
+    <i>In IEEE 51st Asilomar Conference on Signals, Systems, and Computers</i>
+  </div>
+  <div class="pub-links">
+    <a href="https://ieeexplore.ieee.org/abstract/document/8335166" target="_blank">
+      <i class="fa-solid fa-file-pdf"></i>PDF
+    </a>
   </div>
 </div>
 
