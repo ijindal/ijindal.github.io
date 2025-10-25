@@ -73,7 +73,6 @@ author_profile: true
 
 ---
 
-<div class="talk-year">2024</div>
 <div class="talk-grid">
   <div class="talk-card">
     <div class="talk-title">
@@ -86,12 +85,7 @@ author_profile: true
       Julia Bonn, Jeffrey Flanigan, Jan Hajič, <b>Ishan Jindal</b>, Yunyao Li, and Nianwen Xue
     </div>
   </div>
-</div>
 
----
-
-<div class="talk-year">2023</div>
-<div class="talk-grid">
   <div class="talk-card">
     <div class="talk-title">
       <b>IJCAI 2023 Tutorial:</b> 
@@ -103,12 +97,7 @@ author_profile: true
       Julia Bonn, Jeffrey Flanigan, Timothy O’Gorman, Jan Hajič, <b>Ishan Jindal</b>, Yunyao Li, and Nianwen Xue
     </div>
   </div>
-</div>
 
----
-
-<div class="talk-year">2022</div>
-<div class="talk-grid">
   <div class="talk-card">
     <div class="talk-title">
       <b>EMNLP 2022 Tutorial:</b> 
