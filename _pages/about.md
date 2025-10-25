@@ -8,6 +8,27 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.news-panel {
+  width: 520px; /* slightly wider than iframe width */
+  max-height: 800px; /* set the visible height */
+  margin: 0 auto; /* center horizontally */
+  overflow-y: auto; /* vertical scrollbar */
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  background-color: #fff;
+}
+
+/* Make iframes fill panel width and maintain proportions */
+.news-panel iframe {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 20px; /* spacing between posts */
+}
+</style>
+
 Hi! I am a **Staff Engineer** at **Samsung R&D Institute India – Delhi**.
 
 Before joining Samsung, I spent 4.5 wonderful years as a Staff Research Scientist at [IBM Research - Almaden](https://research.ibm.com/labs/almaden/).
@@ -19,14 +40,19 @@ My research interests lie in machine learning and deep learning for unstructured
 Follow me on twitter [@Ishanjindal28](https://twitter.com/Ishanjindal28) and on [LinkedIn](https://www.linkedin.com/in/ishan-jindal/).
 
 ### News
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7369558995755286528" height="874" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7365068088301584384" height="1279" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=gMb6U-05BPsglH54H5gDA4j8kCSud73mm-aJZYmNZt8&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script> 
+<div class="news-panel">
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7369558995755286528" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7365068088301584384" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+</div>
 
 
 <!-- ## Recent News
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7369558995755286528" height="874" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7365068088301584384" height="1279" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=gMb6U-05BPsglH54H5gDA4j8kCSud73mm-aJZYmNZt8&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script> 
 
 
 ### Upcoming -->
