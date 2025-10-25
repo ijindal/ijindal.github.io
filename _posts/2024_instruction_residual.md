@@ -1,6 +1,6 @@
 ---
 title: 'Keeping LLMs Aligned Without the Cost: The Story of Instruction Residuals'
-date: 2025-10
+date: 2025-10-10
 permalink: /posts/2025/10/blog-post-1/
 tags:
   - cool posts
