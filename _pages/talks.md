@@ -43,9 +43,11 @@ author_profile: true
 }
 .talk-image {
   width: 100%;
-  height: 180px;
-  object-fit: cover;
+  height: 200px; 
+  object-fit: contain; /* ensures full image shown */
+  background-color: #fff;
   border-bottom: 1px solid #ddd;
+  padding: 5px; /* adds a small gap around image */
 }
 .talk-title a {
   color: #004d99;
