@@ -84,6 +84,21 @@ author_profile: true
 <div class="talk-grid">
 
   <div class="talk-card">
+    <img src="../files/2025_11_14_IITD_Talk.jpg" alt="UCSCNLP" class="talk-image">
+    <div class="talk-title">
+      <b>Invited Talk 2025@IIT Delhi:</b>
+      Modular and Selective Reasoning: Inference-Time Optimization for Large Language Models
+    </div>
+    <div class="talk-authors">
+      <b>Ishan Jindal</b>
+    </div>
+    <div class="talk-links">
+      <i class="fa-solid fa-calendar-days"></i> 2025
+    </div>
+  </div>
+
+  
+  <div class="talk-card">
     <div class="talk-title">
       <b>TLC Seminar 2025@ Samsung R&D India, Delhi:</b>
       Agentic AI: Design Patterns and Protocols
