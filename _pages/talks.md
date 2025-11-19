@@ -81,8 +81,6 @@ author_profile: true
 
 ---
 
-
-
 <div class="talk-grid">
 
   <div class="talk-card">
@@ -96,7 +94,8 @@ author_profile: true
     </div>
     <div class="talk-links">
       <a href="https://scai.iitd.ac.in/events/modular-and-selective-reasoning-inference-time-optimization-for-large-language-models" target="_blank">
-      <i class="fa-solid fa-calendar-days"></i> 2025
+        <i class="fa-solid fa-globe"></i> Event Page
+      </a>
     </div>
   </div>
 
