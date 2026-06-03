@@ -50,7 +50,9 @@ Follow me on twitter [@Ishanjindal28](https://twitter.com/Ishanjindal28) and on 
   <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7365068088301584384" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </div>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=gMb6U-05BPsglH54H5gDA4j8kCSud73mm-aJZYmNZt8&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script> 
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "66fd041bbc8b42498fac4f69fc6b4ab2"}'></script><!-- End Cloudflare Web Analytics -->
+
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=gMb6U-05BPsglH54H5gDA4j8kCSud73mm-aJZYmNZt8&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>  -->
 
 <!-- ## Recent News
 
