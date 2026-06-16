@@ -33,9 +33,9 @@ redirect_from:
 }
 </style>
 
-Hi! I am a **Staff Engineer** at **Samsung R&D Institute India – Delhi**.
+Hi! I am a **Principal Researcher** at **Fujitsu Research of India - Bengaluru**, where I work on advancing artificial intelligence and machine learning technologies.
 
-Before joining Samsung, I spent 4.5 wonderful years as a Staff Research Scientist at [IBM Research - Almaden](https://research.ibm.com/labs/almaden/).
+Prior to joining Fujitsu, I spent two years as a **Staff Engineer** at **Samsung R&D Institute India – Delhi**, where I worked on large language model (LLM) inference optimization, focusing on improving the efficiency, scalability, and deployment of foundation models. Before Samsung, I spent 4.5 wonderful years as a Staff Research Scientist at [IBM Research - Almaden](https://research.ibm.com/labs/almaden/).
 
 I earned my Ph.D. in Electrical Engineering from [Wayne State University](https://engineering.wayne.edu/), where my research focused on developing deep learning frameworks for unstructured and unreliable data. Prior to that, I completed my Master’s in Electrical Engineering at the [Indian Institute of Technology Roorkee](https://ee.iitr.ac.in/), where I was awarded the prestigious [DAAD Fellowship](https://www.daad.in/en/) to conduct my master’s thesis research at the Computer Vision and Remote Sensing Department, [Technical University Berlin](https://www.cv.tu-berlin.de/menue/computer_vision_remote_sensing/), Germany. Earlier, I also worked as a Junior Research Fellow at the [Indian Institute of Technology Gandhinagar](https://ee.iitgn.ac.in/), developing deep learning models for dynamic scene classification and object tracking. 
 
