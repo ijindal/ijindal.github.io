@@ -33,9 +33,9 @@ redirect_from:
 }
 </style>
 
-Hi! I am a **Principal Researcher** at **Fujitsu Research of India - Bengaluru**, where I work on advancing artificial intelligence and machine learning technologies.
+Hi! I am a **Principal Researcher** at **Fujitsu Research India**. While elite frontier labs are primarily focused on scaling the raw capabilities of foundation models, my research focuses on building the cognitive architecture required to make those models reliable, agentic, and efficient in practice. My current work tackles the immediate bottlenecks of massive base models: long-horizon state management and reliable multi-step logic. I am deeply engaged in guiding LLM reasoning trajectories (such as through Prefix Consensus) and developing reflective recall cycles to enable long-term agentic memory.
 
-Prior to joining Fujitsu, I spent two years as a **Staff Engineer** at **Samsung R&D Institute India – Delhi**, where I worked on large language model (LLM) inference optimization, focusing on improving the efficiency, scalability, and deployment of foundation models. Before Samsung, I spent 4.5 wonderful years as a Staff Research Scientist at [IBM Research - Almaden](https://research.ibm.com/labs/almaden/).
+Bridging the gap between raw unstructured data and highly capable AI systems has been the continuous thread of my career. Prior to joining Fujitsu, I spent two years as a **Staff Engineer** at **Samsung R&D Institute India – Delhi**, where I worked on large language model (LLM) inference optimization, focusing on improving the efficiency, scalability, and deployment of foundation models. Before Samsung, I spent 4.5 wonderful years as a Staff Research Scientist at [IBM Research - Almaden](https://research.ibm.com/labs/almaden/).
 
 I earned my Ph.D. in Electrical Engineering from [Wayne State University](https://engineering.wayne.edu/), where my research focused on developing deep learning frameworks for unstructured and unreliable data. Prior to that, I completed my Master’s in Electrical Engineering at the [Indian Institute of Technology Roorkee](https://ee.iitr.ac.in/), where I was awarded the prestigious [DAAD Fellowship](https://www.daad.in/en/) to conduct my master’s thesis research at the Computer Vision and Remote Sensing Department, [Technical University Berlin](https://www.cv.tu-berlin.de/menue/computer_vision_remote_sensing/), Germany. Earlier, I also worked as a Junior Research Fellow at the [Indian Institute of Technology Gandhinagar](https://ee.iitgn.ac.in/), developing deep learning models for dynamic scene classification and object tracking. 
 
@@ -52,7 +52,12 @@ Follow me on twitter [@Ishanjindal28](https://twitter.com/Ishanjindal28) and on 
       <em>"Exploratory and Assimilating Reflection: Reflective Recall Cycle for Long-term Memory"</em><br>
       <strong>Venue:</strong> ICML 2026 Workshop on Multimodal AI Agents (SCALE)
     </li>
-
+    
+   <li style="margin-bottom: 15px; line-height: 1.5;">
+      <span style="color: #555;"><strong>[2026-07]</strong></span> 📋 <strong>Serving as Area Chair</strong><br>
+      <em>ACL Rolling Review (ARR) for EMNLP 2026</em>
+    </li>
+    
     <li style="margin-bottom: 15px; line-height: 1.5;">
       <span style="color: #555;"><strong>[2026-04]</strong></span> 🎤 <strong>Poster Presentation</strong><br>
       <em>"The Path of Least Resistance: Guiding LLM Reasoning Trajectories with Prefix Consensus"</em><br>
@@ -69,7 +74,12 @@ Follow me on twitter [@Ishanjindal28](https://twitter.com/Ishanjindal28) and on 
       <span style="color: #555;"><strong>[2025-12]</strong></span> 💼 <strong>Joined Fujitsu Research of India</strong><br> 
       Role: Principal Researcher
     </li>
-
+    
+  <li style="margin-bottom: 15px; line-height: 1.5;">
+      <span style="color: #555;"><strong>[2025-12]</strong></span> 🎤 <strong>Presented Two Papers at EMNLP 2025</strong><br>
+      <em>Topics: Efficient LLM Inference (Offloaded Reasoning) & Noise Identification in Datasets for generative models</em><br>
+      <strong>Venue:</strong> Findings of EMNLP 2025
+    </li>
   </ul>
 </div>
 
