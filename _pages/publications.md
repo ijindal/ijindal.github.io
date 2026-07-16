@@ -120,11 +120,40 @@ summary {
 </div>
 
 <p>
-As a researcher, I have had the opportunity to work across computer vision, natural language processing, machine learning, deep learning, reinforcement learning, and information theory. Below, I categorize my publications by topic.
+My research bridges multiple disciplines within artificial intelligence—from foundation models and agentic systems to natural language processing, computer vision, reinforcement learning, and information theory. Below, I categorize my publications by topic.
 </p>
 
 <!-- 🤖 FOUNDATION MODELS & AGENTS SECTION -->
 <h2 id="fm-agents">Foundation Models & Agents</h2>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[ICML SCALE 2026 (ORAL)]</b> 
+    <a href="https://scale-icml-2026.github.io/accepted_papers.html" target="_blank">Exploratory and Assimilating Reflection: Reflective Recall Cycle for Long-term Memory</a>
+  </div>
+  <div class="pub-authors">
+    Ganesh S, Moyuru Yamada, <b>Ishan Jindal</b>, Kiran Purohit
+  </div>
+  <div class="pub-venue">
+    <i>In ICML 2026 Workshop on Multimodal AI Agents (Outstanding Paper Runner-Up)</i>
+  </div>
+  <div class="pub-links">
+    <a href="https://openreview.net/forum?id=yVgTchafQD" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">
+    <b>[ICLR 2026]</b> 
+    <a href="#https://openreview.net/pdf?id=hrnSqERgPn" target="_blank">The Path of Least Resistance: Guiding LLM Reasoning Trajectories with Prefix Consensus</a>
+  </div>
+  <div class="pub-authors">
+    <b>Ishan Jindal</b>, Sai Prashanth Akuthota, Jayant Taneja, SACHIN DEV SHARMA
+  </div>
+  <div class="pub-links">
+    <a href="#https://openreview.net/pdf?id=hrnSqERgPn" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+  </div>
+</div>
 
 <div class="pub-card">
   <div class="pub-title">
@@ -143,13 +172,13 @@ As a researcher, I have had the opportunity to work across computer vision, natu
 <div class="pub-card">
   <div class="pub-title">
     <b>[EMNLP Findings 2025]</b> 
-    <a href="" target="_blank">Identifying Noise in Human-Created Datasets using Training Dynamics from Generative Models</a>
+    <a href="https://aclanthology.org/2025.findings-emnlp.840.pdf" target="_blank">Identifying Noise in Human-Created Datasets using Training Dynamics from Generative Models</a>
   </div>
   <div class="pub-authors">
     Maeda Hanafi, <b>Ishan Jindal</b>, Yannis Katsis, Lucian Popa, Huaiyu Zhu.
   </div>
   <div class="pub-links">
-    <a href="" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
+    <a href="https://aclanthology.org/2025.findings-emnlp.840.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
   </div>
 </div>
 
