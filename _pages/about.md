@@ -44,6 +44,14 @@ My research interests lie in machine learning and deep learning for unstructured
 Follow me on twitter [@Ishanjindal28](https://twitter.com/Ishanjindal28) and on [LinkedIn](https://www.linkedin.com/in/ishan-jindal/).
 
 ### News
+<div style="max-height: 250px; overflow-y: auto; border-left: 3px solid #ddd; padding-left: 15px; margin-bottom: 20px;">
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 10px;"><strong>[2026-07]:</strong> Our work on agentic memory got <em>Outstanding paper Runner-up award</em> at ICML2026 SCALE workshop </li>
+    <li style="margin-bottom: 10px;"><strong>[2026-04]:</strong> Presented "Path of Least Resistance at ICLR 2026."</li>
+    <li style="margin-bottom: 10px;"><strong>[2025-12]:</strong> Joined Fujitsu Research of India as Principal Researcher</li>
+    <li style="margin-bottom: 10px;"><strong>[2026-01]:</strong> Our paper <em>"The Path of Least Resistance: Guiding LLM Reasoning Trajectories with Prefix Consensus"</em> was accepted at ICLR 2026.</li>
+  </ul>
+</div>
 
 <div class="news-panel">
   <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7369558995755286528" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
