@@ -44,12 +44,32 @@ My research interests lie in machine learning and deep learning for unstructured
 Follow me on twitter [@Ishanjindal28](https://twitter.com/Ishanjindal28) and on [LinkedIn](https://www.linkedin.com/in/ishan-jindal/).
 
 ### News
-<div style="max-height: 250px; overflow-y: auto; border-left: 3px solid #ddd; padding-left: 15px; margin-bottom: 20px;">
+<div style="max-height: 350px; overflow-y: auto; border-left: 3px solid #ddd; padding-left: 15px; margin-bottom: 20px;">
   <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 10px;"><strong>[2026-07]:</strong> Our work on agentic memory got <em>Outstanding paper Runner-up award</em> at ICML2026 SCALE workshop </li>
-    <li style="margin-bottom: 10px;"><strong>[2026-04]:</strong> Presented "Path of Least Resistance at ICLR 2026."</li>
-    <li style="margin-bottom: 10px;"><strong>[2025-12]:</strong> Joined Fujitsu Research of India as Principal Researcher</li>
-    <li style="margin-bottom: 10px;"><strong>[2026-01]:</strong> Our paper <em>"The Path of Least Resistance: Guiding LLM Reasoning Trajectories with Prefix Consensus"</em> was accepted at ICLR 2026.</li>
+    
+    <li style="margin-bottom: 15px; line-height: 1.5;">
+      <span style="color: #555;"><strong>[2026-07]</strong></span> 🏆 <strong style="color: #d9534f;">Outstanding Paper Runner-Up Award</strong><br>
+      <em>"Exploratory and Assimilating Reflection: Reflective Recall Cycle for Long-term Memory"</em><br>
+      <strong>Venue:</strong> ICML 2026 Workshop on Multimodal AI Agents (SCALE)
+    </li>
+
+    <li style="margin-bottom: 15px; line-height: 1.5;">
+      <span style="color: #555;"><strong>[2026-04]</strong></span> 🎤 <strong>Poster Presentation</strong><br>
+      <em>"The Path of Least Resistance: Guiding LLM Reasoning Trajectories with Prefix Consensus"</em><br>
+      <strong>Venue:</strong> ICLR 2026
+    </li>
+
+    <li style="margin-bottom: 15px; line-height: 1.5;">
+      <span style="color: #555;"><strong>[2026-01]</strong></span> ✅ <strong>Paper Accepted</strong><br>
+      <em>"The Path of Least Resistance: Guiding LLM Reasoning Trajectories with Prefix Consensus"</em><br>
+      <strong>Venue:</strong> ICLR 2026
+    </li>
+
+    <li style="margin-bottom: 15px; line-height: 1.5;">
+      <span style="color: #555;"><strong>[2025-12]</strong></span> 💼 <strong>Joined Fujitsu Research of India</strong><br> 
+      Role: Principal Researcher
+    </li>
+
   </ul>
 </div>
 
