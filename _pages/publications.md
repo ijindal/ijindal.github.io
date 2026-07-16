@@ -135,7 +135,7 @@ My research bridges multiple disciplines within artificial intelligence—from f
     Ganesh S, Moyuru Yamada, <b>Ishan Jindal</b>, Kiran Purohit
   </div>
   <div class="pub-venue">
-    <i>In ICML 2026 Workshop on Multimodal AI Agents (Outstanding Paper Runner-Up)</i>
+    <i>(Outstanding Paper Runner-Up Award)</i>
   </div>
   <div class="pub-links">
     <a href="https://openreview.net/forum?id=yVgTchafQD" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
