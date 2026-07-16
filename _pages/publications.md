@@ -112,6 +112,7 @@ summary {
 
 <!-- 🧭 Topic Navigation Bar -->
 <div class="topic-nav">
+  <a href="#fm-agents">Foundation Models & Agents</a> |
   <a href="#nlp">Natural Language Processing</a> |
   <a href="#cv">Computer Vision</a> |
   <a href="#rl">Reinforcement Learning</a> |
@@ -122,8 +123,8 @@ summary {
 As a researcher, I have had the opportunity to work across computer vision, natural language processing, machine learning, deep learning, reinforcement learning, and information theory. Below, I categorize my publications by topic.
 </p>
 
-<!-- 🧠 NLP SECTION -->
-<h2 id="nlp">Natural Language Processing</h2>
+<!-- 🤖 FOUNDATION MODELS & AGENTS SECTION -->
+<h2 id="fm-agents">Foundation Models & Agents</h2>
 
 <div class="pub-card">
   <div class="pub-title">
@@ -163,7 +164,6 @@ As a researcher, I have had the opportunity to work across computer vision, natu
   <div class="pub-links">
     <a href="https://openreview.net/pdf?id=kwhQ6Btu5E" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
     <a href="https://github.com/JayantTaneja/Offloaded-Reasoning" target="_blank"><i class="fa-solid fa-code"></i>Code</a>
-
   </div>
 </div>
 
@@ -179,6 +179,10 @@ As a researcher, I have had the opportunity to work across computer vision, natu
     <a href="https://openreview.net/pdf?id=qE0lPCBkD4" target="_blank"><i class="fa-solid fa-file-pdf"></i>PDF</a>
   </div>
 </div>
+
+
+<!-- 🧠 NLP SECTION -->
+<h2 id="nlp">Natural Language Processing</h2>
 
 <div class="pub-card">
   <div class="pub-title">
